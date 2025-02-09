@@ -509,11 +509,13 @@
     "criteria": {
       "cooked_porkchop": "2025-02-09 16:26:49 +0000",
       "mutton": "2025-02-09 16:54:47 +0000",
+      "chicken": "2025-02-09 20:09:08 +0000",
       "bread": "2025-02-09 16:38:19 +0000",
       "golden_apple": "2025-02-09 17:49:26 +0000",
       "cooked_chicken": "2025-02-09 18:35:05 +0000",
       "cooked_mutton": "2025-02-09 18:39:34 +0000",
-      "cooked_beef": "2025-02-09 16:56:27 +0000"
+      "cooked_beef": "2025-02-09 16:56:27 +0000",
+      "baked_potato": "2025-02-09 20:06:57 +0000"
     },
     "done": false
   },
@@ -2035,9 +2037,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-09 20:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-09 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-09 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-09 20:05:59 +0000"
     },
     "done": true
   },
