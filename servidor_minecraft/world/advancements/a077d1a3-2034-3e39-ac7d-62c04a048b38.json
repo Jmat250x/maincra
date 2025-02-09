@@ -512,6 +512,7 @@
       "bread": "2025-02-09 16:38:19 +0000",
       "golden_apple": "2025-02-09 17:49:26 +0000",
       "cooked_chicken": "2025-02-09 18:35:05 +0000",
+      "cooked_mutton": "2025-02-09 18:39:34 +0000",
       "cooked_beef": "2025-02-09 16:56:27 +0000"
     },
     "done": false
@@ -1671,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-09 18:45:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 18:19:21 +0000"
@@ -1689,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-09 18:41:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 18:19:21 +0000"
@@ -1704,6 +1717,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 18:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-09 18:45:20 +0000"
     },
     "done": true
   },
