@@ -65,3 +65,11 @@
 [01:43:00] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
 [01:43:00] [Server thread/INFO]: Maycol_27x left the game
 [01:56:04] [Server thread/INFO]: Jmat_2 has made the advancement [Hot Stuff]
+[02:03:39] [Server thread/INFO]: Jmat_2 has made the advancement [We Need to Go Deeper]
+[02:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
+[02:07:27] [Server thread/WARN]: Jmat_2 was kicked for floating too long!
+[02:07:27] [Server thread/INFO]: Jmat_2 lost connection: Flying is not enabled on this server
+[02:07:27] [Server thread/INFO]: Jmat_2 left the game
+[02:07:27] [Server thread/WARN]: handleDisconnection() called twice
+[02:07:40] [Server thread/INFO]: Jmat_2[/127.31.58.135:51133] logged in with entity id 28569 at (358.23117256970824, 66.7531999805212, 220.62217789043856)
+[02:07:40] [Server thread/INFO]: Jmat_2 joined the game
