@@ -2079,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-09 17:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-09 17:44:57 +0000"

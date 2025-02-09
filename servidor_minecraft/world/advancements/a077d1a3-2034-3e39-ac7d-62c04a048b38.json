@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-02-09 16:40:15 +0000",
       "minecraft:ocean": "2025-02-09 17:40:37 +0000",
       "minecraft:river": "2025-02-09 16:36:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-09 17:55:10 +0000",
       "minecraft:stony_shore": "2025-02-09 16:23:25 +0000",
       "minecraft:savanna": "2025-02-09 16:18:27 +0000",
       "minecraft:plains": "2025-02-09 16:36:44 +0000"
@@ -509,6 +510,7 @@
       "cooked_porkchop": "2025-02-09 16:26:49 +0000",
       "mutton": "2025-02-09 16:54:47 +0000",
       "bread": "2025-02-09 16:38:19 +0000",
+      "golden_apple": "2025-02-09 17:49:26 +0000",
       "cooked_beef": "2025-02-09 16:56:27 +0000"
     },
     "done": false
@@ -1604,6 +1606,24 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-09 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-09 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-09 17:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-09 17:52:12 +0000"
     },
     "done": true
   },

@@ -76,3 +76,17 @@
 [17:43:38] [Server thread/INFO]: vGodbridger[/127.194.163.136:59843] logged in with entity id 23315 at (497.4666306032823, -17.0, 82.31139647106616)
 [17:43:38] [Server thread/INFO]: vGodbridger joined the game
 [17:43:45] [Server thread/INFO]: Jmat_2 was shot by Skeleton
+[17:50:29] [Server thread/INFO]: vGodbridger has made the advancement [Cover Me with Diamonds]
+[17:55:15] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[17:55:15] [Server thread/INFO]: vGodbridger left the game
+[17:55:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a4d0c41[id=a077d1a3-2034-3e39-ac7d-62c04a048b38,name=vGodbridger,properties={}] lost connection: Timed out
+[17:55:38] [Server thread/WARN]: handleDisconnection() called twice
+[17:55:47] [Server thread/INFO]: [Not Secure] <Jmat_2> 360 190
+[17:55:48] [Server thread/INFO]: [Not Secure] <Jmat_2> 360 190
+[17:55:48] [Server thread/INFO]: [Not Secure] <Jmat_2> 360 190
+[17:55:54] [Server thread/INFO]: vGodbridger[/127.194.163.136:45573] logged in with entity id 27230 at (419.6808757848307, -44.0, 5.682091655395452)
+[17:55:54] [Server thread/INFO]: vGodbridger joined the game
+[17:55:56] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[17:55:56] [Server thread/INFO]: vGodbridger left the game
+[18:06:58] [Server thread/INFO]: vGodbridger[/127.194.163.136:54425] logged in with entity id 30121 at (419.6808757848307, -44.0, 5.682091655395452)
+[18:06:58] [Server thread/INFO]: vGodbridger joined the game
