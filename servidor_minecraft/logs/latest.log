@@ -28,3 +28,13 @@
 [16:23:03] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
 [16:23:04] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
 [16:23:05] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[16:27:35] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[16:27:35] [Server thread/INFO]: vGodbridger left the game
+[16:31:11] [Server thread/INFO]: vGodbridger[/127.194.163.136:50897] logged in with entity id 4251 at (270.5186543296318, 56.0, -13.45179994811473)
+[16:31:11] [Server thread/INFO]: vGodbridger joined the game
+[16:33:23] [Server thread/INFO]: vGodbridger was shot by Skeleton
+[16:35:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=96, y=96, z=-27} jd{x=96, y=94, z=-27}
+[16:36:49] [Server thread/INFO]: [Not Secure] <vGodbridger> jose
+[16:38:28] [Server thread/WARN]: vGodbridger moved too quickly! 8.453197800598616,-0.2712241076924897,5.792530702983299
+[16:41:58] [Server thread/INFO]: Jmat_2 has made the advancement [A Seedy Place]
+[16:42:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=354, y=64, z=50} jd{x=354, y=62, z=50}
