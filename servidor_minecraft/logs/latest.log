@@ -6,3 +6,11 @@
 [00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=187} jd{x=424, y=67, z=188}
 [00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=186} jd{x=424, y=67, z=186}
 [00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=186} jd{x=424, y=67, z=186}
+[00:24:42] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[00:24:42] [Server thread/INFO]: Jmat_2 left the game
+[00:25:04] [Server thread/INFO]: Jmat_2[/127.31.58.135:38345] logged in with entity id 28281 at (427.19847181871353, 69.0, 189.75012967825816)
+[00:25:04] [Server thread/INFO]: Jmat_2 joined the game
+[00:32:04] [Server thread/INFO]: Jmat_2 lost connection: Timed out
+[00:32:04] [Server thread/INFO]: Jmat_2 left the game
+[00:32:25] [Server thread/INFO]: Jmat_2[/127.31.58.135:56707] logged in with entity id 31597 at (418.39476163220746, 68.0, 177.7953140303843)
+[00:32:25] [Server thread/INFO]: Jmat_2 joined the game
