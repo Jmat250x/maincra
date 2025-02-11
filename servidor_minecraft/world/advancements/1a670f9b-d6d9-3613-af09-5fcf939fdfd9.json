@@ -11,6 +11,7 @@
       "minecraft:savanna_plateau": "2025-02-11 01:45:02 +0000",
       "minecraft:beach": "2025-02-11 02:28:11 +0000",
       "minecraft:forest": "2025-02-11 01:52:14 +0000",
+      "minecraft:ocean": "2025-02-11 02:48:54 +0000",
       "minecraft:river": "2025-02-11 01:44:06 +0000",
       "minecraft:savanna": "2025-02-11 01:43:27 +0000",
       "minecraft:plains": "2025-02-11 01:45:23 +0000"
@@ -1140,6 +1141,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-11 02:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-11 02:45:55 +0000"
     },
     "done": true
   },
