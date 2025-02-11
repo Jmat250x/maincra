@@ -2104,21 +2104,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_smooth_stone": "2025-02-11 01:00:10 +0000"
+      "has_gunpowder": "2025-02-11 00:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-11 00:55:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-02-11 00:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-02-11 00:57:05 +0000"
     },
     "done": true
   },
@@ -2140,15 +2140,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_gunpowder": "2025-02-11 00:55:28 +0000"
+      "has_wood_slab": "2025-02-11 00:57:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_gunpowder": "2025-02-11 00:55:28 +0000"
+      "has_smooth_stone": "2025-02-11 01:00:10 +0000"
     },
     "done": true
   },
