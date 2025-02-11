@@ -43,3 +43,19 @@
 [23:38:40] [Server thread/INFO]: Maycol_27x has made the advancement [Not Today, Thank You]
 [23:41:54] [Server thread/INFO]: vGodbridger lost connection: Disconnected
 [23:41:54] [Server thread/INFO]: vGodbridger left the game
+[23:52:39] [Server thread/INFO]: Jmat_2 lost connection: Timed out
+[23:52:39] [Server thread/INFO]: Jmat_2 left the game
+[23:52:39] [Server thread/WARN]: handleDisconnection() called twice
+[23:52:48] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[23:52:48] [Server thread/INFO]: Maycol_27x left the game
+[23:52:48] [Server thread/WARN]: handleDisconnection() called twice
+[23:53:16] [Server thread/INFO]: Jmat_2[/127.31.58.135:59637] logged in with entity id 12795 at (382.48231628532557, 65.875, 182.69973691069129)
+[23:53:16] [Server thread/INFO]: Jmat_2 joined the game
+[23:53:21] [Server thread/INFO]: Maycol_27x (/127.214.117.41:53313) lost connection: Timed out
+[23:53:24] [Server thread/INFO]: Maycol_27x[/127.214.117.41:51235] logged in with entity id 13236 at (360.4324163594307, 67.9375, 109.29853053574352)
+[23:53:24] [Server thread/INFO]: Maycol_27x joined the game
+[23:54:50] [Server thread/INFO]: vGodbridger[/127.194.163.136:42523] logged in with entity id 13469 at (364.867913868568, 72.0, 172.55705323429802)
+[23:54:50] [Server thread/INFO]: vGodbridger joined the game
+[23:57:53] [Server thread/INFO]: vGodbridger was slain by Zombie
+[23:58:37] [Server thread/INFO]: Maycol_27x has made the advancement [Cover Me with Diamonds]
+[23:58:38] [Server thread/INFO]: Maycol_27x has made the advancement [Hot Stuff]
