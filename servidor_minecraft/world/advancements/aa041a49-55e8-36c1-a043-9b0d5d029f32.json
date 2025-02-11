@@ -746,7 +746,8 @@
       "minecraft:zombie": "2025-02-09 01:24:18 +0000",
       "minecraft:creeper": "2025-02-09 01:22:09 +0000",
       "minecraft:zombie_villager": "2025-02-09 16:52:13 +0000",
-      "minecraft:ghast": "2025-02-09 19:30:23 +0000"
+      "minecraft:ghast": "2025-02-09 19:30:23 +0000",
+      "minecraft:hoglin": "2025-02-11 00:50:54 +0000"
     },
     "done": false
   },
@@ -3021,6 +3022,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-11 00:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-11 00:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-02-11 00:34:54 +0000"
@@ -3042,6 +3055,24 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-11 00:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-11 00:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-11 00:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-11 01:01:43 +0000"
     },
     "done": true
   },
