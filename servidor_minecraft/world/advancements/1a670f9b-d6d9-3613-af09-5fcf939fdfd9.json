@@ -7,12 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-02-11 03:44:24 +0000",
       "minecraft:flower_forest": "2025-02-11 01:50:42 +0000",
       "minecraft:savanna_plateau": "2025-02-11 01:45:02 +0000",
       "minecraft:beach": "2025-02-11 02:28:11 +0000",
+      "minecraft:mushroom_fields": "2025-02-11 03:53:32 +0000",
       "minecraft:forest": "2025-02-11 01:52:14 +0000",
-      "minecraft:ocean": "2025-02-11 02:48:54 +0000",
+      "minecraft:deep_ocean": "2025-02-11 03:43:30 +0000",
       "minecraft:river": "2025-02-11 01:44:06 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-11 03:46:39 +0000",
+      "minecraft:ocean": "2025-02-11 02:48:54 +0000",
+      "minecraft:meadow": "2025-02-11 03:59:34 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-02-11 04:04:22 +0000",
+      "minecraft:windswept_hills": "2025-02-11 04:05:32 +0000",
       "minecraft:savanna": "2025-02-11 01:43:27 +0000",
       "minecraft:plains": "2025-02-11 01:45:23 +0000"
     },
@@ -116,9 +123,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-11 03:57:10 +0000",
       "bread": "2025-02-11 02:37:27 +0000",
       "cooked_chicken": "2025-02-11 02:05:52 +0000",
       "baked_potato": "2025-02-11 02:36:39 +0000",
+      "golden_carrot": "2025-02-11 04:00:50 +0000",
       "carrot": "2025-02-11 01:46:38 +0000"
     },
     "done": false
@@ -837,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-11 03:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-11 02:26:39 +0000"
@@ -861,15 +876,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-11 02:32:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-11 03:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-11 02:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-11 03:40:38 +0000"
     },
     "done": true
   },
@@ -882,6 +921,12 @@
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-02-11 02:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
     },
     "done": true
   },
@@ -921,9 +966,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-11 03:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-11 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-11 03:47:30 +0000"
     },
     "done": true
   },
@@ -948,6 +1005,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-02-11 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-11 03:47:31 +0000"
     },
     "done": true
   },
@@ -1017,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-11 03:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-11 02:00:52 +0000"
@@ -1029,9 +1098,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-11 03:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-11 03:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-11 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
     },
     "done": true
   },
@@ -1059,9 +1146,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-11 02:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
     },
     "done": true
   },
@@ -1096,6 +1195,12 @@
     },
     "done": false
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-11 03:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-11 02:26:39 +0000"
@@ -1105,6 +1210,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-11 02:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-11 03:40:38 +0000"
     },
     "done": true
   },
@@ -1129,6 +1240,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-11 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
     },
     "done": true
   },
@@ -1159,6 +1276,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-11 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-11 03:40:38 +0000"
     },
     "done": true
   },
@@ -1204,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-11 03:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-02-11 02:00:52 +0000"
@@ -1219,6 +1348,24 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-11 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-11 03:41:17 +0000"
     },
     "done": true
   },
