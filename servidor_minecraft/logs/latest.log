@@ -3,3 +3,6 @@
 [00:08:11] [Server thread/INFO]: [Not Secure] <vGodbridger> zi
 [00:08:37] [Server thread/INFO]: vGodbridger lost connection: Timed out
 [00:08:37] [Server thread/INFO]: vGodbridger left the game
+[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=187} jd{x=424, y=67, z=188}
+[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=186} jd{x=424, y=67, z=186}
+[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=186} jd{x=424, y=67, z=186}
