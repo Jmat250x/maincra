@@ -1,201 +1,29 @@
-[00:07:59] [Server thread/INFO]: [Not Secure] <vGodbridger> y lo mio
-[00:08:06] [Server thread/INFO]: [Not Secure] <vGodbridger> ZIU
-[00:08:11] [Server thread/INFO]: [Not Secure] <vGodbridger> zi
-[00:08:37] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[00:08:37] [Server thread/INFO]: vGodbridger left the game
-[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=187} jd{x=424, y=67, z=188}
-[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=186} jd{x=424, y=67, z=186}
-[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=422, y=69, z=186} jd{x=424, y=67, z=186}
-[00:24:42] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[00:24:42] [Server thread/INFO]: Jmat_2 left the game
-[00:25:04] [Server thread/INFO]: Jmat_2[/127.31.58.135:38345] logged in with entity id 28281 at (427.19847181871353, 69.0, 189.75012967825816)
-[00:25:04] [Server thread/INFO]: Jmat_2 joined the game
-[00:32:04] [Server thread/INFO]: Jmat_2 lost connection: Timed out
-[00:32:04] [Server thread/INFO]: Jmat_2 left the game
-[00:32:25] [Server thread/INFO]: Jmat_2[/127.31.58.135:56707] logged in with entity id 31597 at (418.39476163220746, 68.0, 177.7953140303843)
-[00:32:25] [Server thread/INFO]: Jmat_2 joined the game
-[00:35:52] [Server thread/INFO]: vGodbridger[/127.194.163.136:49655] logged in with entity id 32512 at (366.5718592268235, 69.875, 181.33625384918307)
-[00:35:52] [Server thread/INFO]: vGodbridger joined the game
-[00:38:37] [Server thread/WARN]: vGodbridger moved too quickly! 9.685589031215386,0.001335979112141672,-3.0232518993393285
-[00:38:41] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[00:38:41] [Server thread/INFO]: vGodbridger left the game
-[00:39:04] [Server thread/INFO]: vGodbridger[/127.194.163.136:48775] logged in with entity id 34625 at (417.2192484767864, 62.0, 164.51212502718928)
-[00:39:04] [Server thread/INFO]: vGodbridger joined the game
-[00:39:18] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[00:39:18] [Server thread/INFO]: vGodbridger left the game
-[00:41:37] [Server thread/INFO]: vGodbridger[/127.194.163.136:35503] logged in with entity id 35728 at (417.1449402879709, 62.0, 164.45476977251042)
-[00:41:37] [Server thread/INFO]: vGodbridger joined the game
-[00:45:33] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[00:45:33] [Server thread/INFO]: vGodbridger left the game
-[00:45:56] [Server thread/INFO]: vGodbridger[/127.194.163.136:35531] logged in with entity id 36751 at (418.3261698979842, 55.0, 157.42891440616557)
-[00:45:56] [Server thread/INFO]: vGodbridger joined the game
-[00:46:12] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[00:46:12] [Server thread/INFO]: vGodbridger left the game
-[00:48:31] [Server thread/INFO]: vGodbridger[/127.194.163.136:46865] logged in with entity id 37485 at (418.3261698979842, 55.0, 157.42891440616557)
-[00:48:31] [Server thread/INFO]: vGodbridger joined the game
-[00:54:03] [Server thread/INFO]: Maycol_27x has made the advancement [What a Deal!]
-[00:59:21] [Server thread/INFO]: Jmat_2 has made the advancement [What a Deal!]
-[01:05:30] [Server thread/INFO]: [Not Secure] <vGodbridger> HOLA JUAN
-[01:10:17] [Server thread/INFO]: Villager cmk['Librarian'/12888, l='ServerLevel[world]', x=419.51, y=68.00, z=183.49] died, message: 'Librarian drowned'
-[01:16:49] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[01:16:49] [Server thread/INFO]: vGodbridger left the game
-[01:17:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@673d5889[id=a077d1a3-2034-3e39-ac7d-62c04a048b38,name=vGodbridger,properties={}] lost connection: Disconnected
-[01:18:14] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
-[01:21:01] [Server thread/INFO]: vGodbridger[/127.194.163.136:56827] logged in with entity id 48802 at (418.7228105261616, 68.0, 185.30000001192093)
-[01:21:01] [Server thread/INFO]: vGodbridger joined the game
-[01:22:01] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[01:22:01] [Server thread/INFO]: vGodbridger left the game
-[01:25:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:53681] logged in with entity id 51322 at (418.88200292349995, 68.0, 185.30000001192093)
-[01:25:34] [Server thread/INFO]: vGodbridger joined the game
-[01:27:05] [Server thread/INFO]: Maycol_27x has made the advancement [Enchanter]
-[01:27:34] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[01:27:34] [Server thread/INFO]: vGodbridger left the game
-[01:28:03] [Server thread/INFO]: vGodbridger[/127.194.163.136:46743] logged in with entity id 53002 at (412.8058357872042, 68.0, 189.93042011136973)
-[01:28:03] [Server thread/INFO]: vGodbridger joined the game
-[01:28:06] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[01:28:06] [Server thread/INFO]: vGodbridger left the game
-[01:29:35] [Server thread/INFO]: Jmat_2 has completed the challenge [Hot Tourist Destinations]
-[01:33:06] [Server thread/INFO]: Jmat_2 has made the advancement [A Terrible Fortress]
-[01:35:27] [Server thread/INFO]: Jmat_2 was doomed to fall
-[01:36:00] [Server thread/INFO]: [Not Secure] <Jmat_2> 230 -540
-[01:36:01] [Server thread/INFO]: [Not Secure] <Jmat_2> 230 -540
-[01:36:01] [Server thread/INFO]: [Not Secure] <Jmat_2> t
-[01:36:03] [Server thread/INFO]: [Not Secure] <Jmat_2> t
-[01:36:05] [Server thread/INFO]: [Not Secure] <Jmat_2> 230 -540
-[01:43:08] [Server thread/INFO]: vGodbridger[/127.194.163.136:49121] logged in with entity id 59766 at (412.8058357872042, 68.0, 189.93042011136973)
-[01:43:08] [Server thread/INFO]: vGodbridger joined the game
-[01:43:26] [Server thread/INFO]: OROCHIMARU[/127.253.149.140:52489] logged in with entity id 60005 at (-0.5, 108.0, 1.5)
-[01:43:26] [Server thread/INFO]: OROCHIMARU joined the game
-[01:43:42] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
-[01:44:12] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[01:44:12] [Server thread/INFO]: vGodbridger left the game
-[01:45:41] [Server thread/INFO]: Maycol_27x has made the advancement [We Need to Go Deeper]
-[01:45:49] [Server thread/INFO]: OROCHIMARU has made the advancement [We Need to Go Deeper]
-[01:46:27] [Server thread/INFO]: OROCHIMARU has made the advancement [Isn't It Iron Pick]
-[01:46:58] [Server thread/INFO]: vGodbridger[/127.194.163.136:39443] logged in with entity id 62978 at (412.8058357872042, 68.0, 189.93042011136973)
-[01:46:58] [Server thread/INFO]: vGodbridger joined the game
-[01:47:21] [Server thread/INFO]: OROCHIMARU has made the advancement [Diamonds!]
-[01:47:28] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[01:47:28] [Server thread/INFO]: vGodbridger left the game
-[01:47:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@513717fe[id=a077d1a3-2034-3e39-ac7d-62c04a048b38,name=vGodbridger,properties={}] lost connection: Disconnected
-[01:48:12] [Server thread/WARN]: Maycol_27x moved too quickly! 0.09005777585929309,-11.842011517166327,0.008271205055660147
-[01:48:13] [Server thread/INFO]: Maycol_27x fell from a high place
-[01:49:45] [Server thread/INFO]: OROCHIMARU has made the advancement [Stone Age]
-[01:50:09] [Server thread/INFO]: OROCHIMARU has made the advancement [Cover Me with Diamonds]
-[01:51:14] [Server thread/INFO]: OROCHIMARU has made the advancement [Sweet Dreams]
-[01:57:33] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
-[01:57:33] [Server thread/INFO]: OROCHIMARU left the game
-[01:57:38] [Server thread/INFO]: OROCHIMARU[/127.253.149.140:54849] logged in with entity id 69649 at (311.47353076684783, 0.0, 443.69999998807907)
-[01:57:38] [Server thread/INFO]: OROCHIMARU joined the game
-[01:59:52] [Server thread/INFO]: [Not Secure] <OROCHIMARU> jose tiene una cita
-[02:01:50] [Server thread/INFO]: Maycol_27x has made the advancement [A Terrible Fortress]
-[02:03:01] [Server thread/INFO]: [Not Secure] <OROCHIMARU> uuufffff pico esa
-[02:03:10] [Server thread/INFO]: Maycol_27x was slain by Wither Skeleton
-[02:09:27] [Server thread/INFO]: Jmat_2 has made the advancement [Into Fire]
-[02:09:54] [Server thread/INFO]: Maycol_27x was fireballed by Blaze
-[02:11:34] [Server thread/INFO]: Jmat_2 burned to death
-[02:13:00] [Server thread/INFO]: Maycol_27x has made the advancement [Ice Bucket Challenge]
-[02:16:26] [Server thread/INFO]: Maycol_27x was fireballed by Blaze
-[02:16:48] [Server thread/INFO]: Jmat_2 was slain by Blaze
-[02:26:39] [Server thread/INFO]: OROCHIMARU has made the advancement [Acquire Hardware]
-[02:30:26] [Server thread/INFO]: [Not Secure] <OROCHIMARU> setso
-[02:30:34] [Server thread/INFO]: [Not Secure] <OROCHIMARU> puto el que lo lea
-[02:31:03] [Server thread/INFO]: [Not Secure] <OROCHIMARU> OROCHIMARU
-[02:31:07] [Server thread/INFO]: [Not Secure] <OROCHIMARU> Maycol_27x
-[02:34:46] [Server thread/INFO]: Villager cmk['Villager'/82248, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[02:36:13] [Server thread/INFO]: OROCHIMARU has made the advancement [Monster Hunter]
-[02:41:33] [Server thread/INFO]: Villager cmk['Villager'/82252, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[02:50:53] [Server thread/INFO]: Maycol_27x fell from a high place
-[03:40:23] [Server thread/INFO]: OROCHIMARU has made the advancement [Enchanter]
-[03:41:27] [Server thread/INFO]: Villager cmk['Villager'/82242, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[03:42:08] [Server thread/INFO]: [Not Secure] <Jmat_2> 189
-[03:42:08] [Server thread/INFO]: [Not Secure] <Jmat_2> 189
-[03:49:03] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! -2.2621106364765637,0.0,10.150999837876952
-[03:49:03] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! -2.3491148917256623,0.0,10.541422908564527
-[03:49:03] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! -2.436119146974761,0.0,10.931845979252103
-[03:49:03] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! -2.5231234022238596,0.0,11.322269049939678
-[03:49:03] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! -2.610127657472958,0.0,11.712692120627253
-[03:50:17] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! 3.1170889567831637,0.0,9.92158116779683
-[03:50:17] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! 3.236976993582516,0.0,10.303180443481324
-[03:50:17] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! 3.3568650303818686,0.0,10.684779719165817
-[03:50:17] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! 3.476753067181221,0.0,11.06637899485031
-[03:50:17] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! 3.5966411039805735,0.0,11.447978270534804
-[03:50:17] [Server thread/WARN]: Oak Boat (vehicle of OROCHIMARU) moved too quickly! 3.716529140779926,0.0,11.829577546219298
-[03:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
-[03:53:20] [Server thread/INFO]: Villager cmk['Villager'/82234, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[03:55:45] [Server thread/INFO]: Villager cmk['Villager'/82244, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[03:57:38] [Server thread/INFO]: Villager cmk['Villager'/82247, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[03:58:52] [Server thread/INFO]: Villager cmk['Villager'/82240, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[04:00:40] [Server thread/INFO]: Villager cmk['Villager'/82243, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[04:00:42] [Server thread/INFO]: Villager cmk['Villager'/94666, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[04:05:45] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
-[04:05:45] [Server thread/INFO]: OROCHIMARU left the game
-[04:05:46] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[04:05:46] [Server thread/INFO]: Maycol_27x left the game
-[04:13:59] [Server thread/INFO]: Villager cmk['Villager'/82235, l='ServerLevel[world]', x=411.30, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[04:15:01] [Server thread/INFO]: Villager cmk['Villager'/82238, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[04:33:53] [Server thread/INFO]: Villager cmk['Villager'/82253, l='ServerLevel[world]', x=411.30, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[04:34:33] [Server thread/INFO]: Villager cmk['Villager'/82236, l='ServerLevel[world]', x=411.30, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[04:40:37] [Server thread/INFO]: Villager cmk['Villager'/82305, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[04:53:37] [Server thread/INFO]: Villager cmk['Villager'/110926, l='ServerLevel[world]', x=411.30, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[04:56:43] [Server thread/INFO]: Villager cmk['Villager'/82254, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:01:34] [Server thread/INFO]: Villager cmk['Villager'/89315, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:12:28] [Server thread/INFO]: Villager cmk['Villager'/83731, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:14:52] [Server thread/INFO]: Villager cmk['Villager'/83251, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:19:53] [Server thread/INFO]: Villager cmk['Villager'/121024, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:20:40] [Server thread/INFO]: Villager cmk['Villager'/123993, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:31:32] [Server thread/INFO]: Villager cmk['Villager'/143919, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:35:35] [Server thread/INFO]: Villager cmk['Villager'/145783, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:38:18] [Server thread/INFO]: Villager cmk['Villager'/148358, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:42:09] [Server thread/INFO]: Villager cmk['Villager'/147255, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:52:36] [Server thread/INFO]: Villager cmk['Villager'/150239, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[05:55:27] [Server thread/INFO]: Villager cmk['Villager'/156098, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:11:33] [Server thread/INFO]: Villager cmk['Villager'/82241, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:13:27] [Server thread/INFO]: Villager cmk['Villager'/82239, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:15:05] [Server thread/INFO]: Villager cmk['Villager'/162911, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:15:15] [Server thread/INFO]: Villager cmk['Villager'/157726, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:21:24] [Server thread/INFO]: Villager cmk['Villager'/159931, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:21:34] [Server thread/INFO]: Villager cmk['Villager'/161557, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:40:40] [Server thread/INFO]: Villager cmk['Villager'/108456, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[06:40:50] [Server thread/INFO]: Villager cmk['Villager'/99101, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[06:51:36] [Server thread/INFO]: Villager cmk['Villager'/82245, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[06:54:22] [Server thread/INFO]: Villager cmk['Villager'/82237, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:13:40] [Server thread/INFO]: Villager cmk['Villager'/177401, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:14:19] [Server thread/INFO]: Villager cmk['Villager'/171786, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:18:49] [Server thread/INFO]: Villager cmk['Villager'/171603, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:31:29] [Server thread/INFO]: Villager cmk['Villager'/177250, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:33:35] [Server thread/INFO]: Villager cmk['Villager'/135701, l='ServerLevel[world]', x=411.30, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[07:35:36] [Server thread/INFO]: Villager cmk['Villager'/192853, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:51:29] [Server thread/INFO]: Villager cmk['Villager'/82251, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:53:24] [Server thread/INFO]: Villager cmk['Villager'/190654, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:55:33] [Server thread/INFO]: Villager cmk['Villager'/82246, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[07:59:41] [Server thread/INFO]: Villager cmk['Villager'/110921, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:15:08] [Server thread/INFO]: Villager cmk['Villager'/138824, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[08:15:22] [Server thread/INFO]: Villager cmk['Villager'/82249, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:15:58] [Server thread/INFO]: Villager cmk['Villager'/82250, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:18:32] [Server thread/INFO]: Villager cmk['Villager'/107030, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:33:53] [Server thread/INFO]: Villager cmk['Villager'/206894, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:34:06] [Server thread/INFO]: Villager cmk['Villager'/199007, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:34:38] [Server thread/INFO]: Villager cmk['Villager'/194175, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:40:42] [Server thread/INFO]: Villager cmk['Villager'/214420, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[08:54:32] [Server thread/INFO]: Villager cmk['Villager'/215735, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:11:29] [Server thread/INFO]: Villager cmk['Villager'/162786, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:13:37] [Server thread/INFO]: Villager cmk['Villager'/135169, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:14:43] [Server thread/INFO]: Villager cmk['Villager'/136437, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:21:36] [Server thread/INFO]: Villager cmk['Villager'/216452, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:33:37] [Server thread/INFO]: Villager cmk['Villager'/220922, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:33:50] [Server thread/INFO]: Villager cmk['Villager'/218061, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:40:41] [Server thread/INFO]: Villager cmk['Villager'/206551, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:40:47] [Server thread/INFO]: Villager cmk['Villager'/164202, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:51:31] [Server thread/INFO]: Villager cmk['Villager'/192877, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:51:35] [Server thread/INFO]: Villager cmk['Villager'/181720, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[09:55:09] [Server thread/INFO]: Villager cmk['Villager'/139179, l='ServerLevel[world]', x=411.30, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[09:55:29] [Server thread/INFO]: Villager cmk['Villager'/192025, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[10:14:23] [Server thread/INFO]: Villager cmk['Villager'/230836, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[10:15:44] [Server thread/INFO]: Villager cmk['Villager'/179112, l='ServerLevel[world]', x=411.70, y=25.50, z=154.70] died, message: 'Villager was squished too much'
-[10:21:33] [Server thread/INFO]: Villager cmk['Villager'/230957, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[10:32:37] [Server thread/INFO]: Villager cmk['Villager'/232378, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[10:34:01] [Server thread/INFO]: Villager cmk['Villager'/242140, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[10:34:15] [Server thread/INFO]: Villager cmk['Villager'/243173, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[10:40:46] [Server thread/INFO]: Villager cmk['Villager'/254871, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[10:40:48] [Server thread/INFO]: Villager cmk['Villager'/254903, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[00:55:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:55:16] [ServerMain/INFO]: Loaded 1290 recipes
+[00:55:16] [ServerMain/INFO]: Loaded 1399 advancements
+[00:55:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:55:17] [Server thread/INFO]: Loading properties
+[00:55:17] [Server thread/INFO]: Default game type: SURVIVAL
+[00:55:17] [Server thread/INFO]: Generating keypair
+[00:55:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:55:18] [Server thread/INFO]: Using epoll channel type
+[00:55:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:55:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:55:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:55:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:55:18] [Server thread/INFO]: Preparing level "world"
+[00:55:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:55:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:55:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[00:55:28] [Server thread/INFO]: Time elapsed: 1634 ms
+[00:55:29] [Server thread/INFO]: Done (10.442s)! For help, type "help"
+[00:56:11] [Server thread/INFO]: Jmat_2[/127.31.58.135:48417] logged in with entity id 23 at (377.06135853787555, 66.0, 183.31986777405183)
+[00:56:12] [Server thread/INFO]: Jmat_2 joined the game
+[00:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7333ms or 146 ticks behind
+[00:58:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=411, y=68, z=139} jd{x=411, y=69, z=139}
+[00:59:58] [Server thread/INFO]: vGodbridger[/127.194.163.136:60773] logged in with entity id 3593 at (412.8058357872042, 68.0, 189.93042011136973)
+[00:59:58] [Server thread/INFO]: vGodbridger joined the game
+[01:04:19] [Server thread/INFO]: Villager cmk['Villager'/171, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
