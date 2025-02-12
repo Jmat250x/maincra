@@ -531,6 +531,7 @@
       "cooked_porkchop": "2025-02-09 01:04:51 +0000",
       "apple": "2025-02-09 18:49:27 +0000",
       "bread": "2025-02-09 01:36:49 +0000",
+      "golden_apple": "2025-02-12 02:20:13 +0000",
       "cooked_chicken": "2025-02-09 01:19:06 +0000",
       "cooked_mutton": "2025-02-09 18:57:44 +0000",
       "cooked_beef": "2025-02-09 01:24:16 +0000",
@@ -3216,6 +3217,36 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-02-12 01:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-12 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-12 02:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-12 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-12 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-12 02:34:53 +0000"
     },
     "done": true
   },
