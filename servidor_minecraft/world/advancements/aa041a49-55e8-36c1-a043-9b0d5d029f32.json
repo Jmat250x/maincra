@@ -748,6 +748,7 @@
       "minecraft:wither_skeleton": "2025-02-11 01:33:37 +0000",
       "minecraft:ghast": "2025-02-09 19:30:23 +0000",
       "minecraft:hoglin": "2025-02-11 00:50:54 +0000",
+      "minecraft:shulker": "2025-02-13 01:55:22 +0000",
       "minecraft:piglin": "2025-02-09 18:19:49 +0000",
       "minecraft:enderman": "2025-02-11 00:36:42 +0000",
       "minecraft:silverfish": "2025-02-12 02:51:49 +0000",
@@ -3469,15 +3470,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 01:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-02-13 01:39:56 +0000"
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-13 01:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 01:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-13 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-13 01:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 01:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 01:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-02-13 01:59:29 +0000"
     },
     "done": true
   },
