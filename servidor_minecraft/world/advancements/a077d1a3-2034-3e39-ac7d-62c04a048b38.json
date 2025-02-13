@@ -2499,6 +2499,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-13 01:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-02-13 01:27:34 +0000"
