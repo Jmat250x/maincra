@@ -28,3 +28,7 @@
 [16:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [16:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10160ms or 203 ticks behind
 [16:55:23] [Server thread/INFO]: Villager cmk['Villager'/247, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[16:57:33] [Server thread/INFO]: Villager cmk['Villager'/248, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[17:00:37] [Server thread/INFO]: Villager cmk['Villager'/249, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[17:04:24] [Server thread/INFO]: Villager cmk['Villager'/250, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[17:04:54] [Server thread/INFO]: Villager cmk['Villager'/279, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
