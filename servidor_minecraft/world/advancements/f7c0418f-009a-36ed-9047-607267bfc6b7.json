@@ -2953,24 +2953,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-02-14 03:22:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-14 02:53:37 +0000"
@@ -2995,18 +2977,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-02-14 03:12:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-14 03:46:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-02-14 02:53:37 +0000"
@@ -3016,48 +2986,6 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-02-14 02:53:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-14 03:06:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-02-14 03:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-02-14 03:04:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-14 03:46:36 +0000"
     },
     "done": true
   },
@@ -3073,39 +3001,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-02-14 03:06:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-02-14 03:40:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-14 02:53:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-02-14 03:04:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-02-14 03:12:59 +0000"
     },
     "done": true
   },
@@ -3115,15 +3013,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+      "has_soul_sand": "2025-02-14 03:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-14 03:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-14 03:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-14 03:06:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-14 03:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-14 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-14 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-14 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-14 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-14 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-14 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-14 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-14 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-14 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-14 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-14 04:16:31 +0000"
     },
     "done": true
   },
