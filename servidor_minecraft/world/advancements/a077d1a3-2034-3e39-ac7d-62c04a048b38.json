@@ -971,11 +971,13 @@
       "minecraft:skeleton": "2025-02-09 17:15:23 +0000",
       "minecraft:silverfish": "2025-02-12 03:25:43 +0000",
       "minecraft:spider": "2025-02-09 16:56:38 +0000",
+      "minecraft:wither_skeleton": "2025-02-14 03:04:13 +0000",
       "minecraft:zombie": "2025-02-09 16:54:52 +0000",
       "minecraft:creeper": "2025-02-11 00:55:26 +0000",
       "minecraft:drowned": "2025-02-09 18:16:07 +0000",
       "minecraft:zombie_villager": "2025-02-09 19:21:02 +0000",
-      "minecraft:ender_dragon": "2025-02-12 03:08:07 +0000"
+      "minecraft:ender_dragon": "2025-02-12 03:08:07 +0000",
+      "minecraft:hoglin": "2025-02-14 03:01:22 +0000"
     },
     "done": false
   },
@@ -2532,6 +2534,24 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-02-14 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-14 03:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-14 03:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-14 03:03:50 +0000"
     },
     "done": true
   },
