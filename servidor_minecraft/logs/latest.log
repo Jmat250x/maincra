@@ -42,3 +42,5 @@
 [16:09:53] [Server thread/WARN]: Maycol_27x moved too quickly! 2.2157511613996803,6.7567356035538495,-16.55058808076491
 [16:17:40] [Server thread/INFO]: Villager cmk['Villager'/24525, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
 [16:19:46] [Server thread/INFO]: Villager cmk['Villager'/28977, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[16:21:49] [Server thread/INFO]: Villager cmk['Villager'/29827, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[16:21:54] [Server thread/INFO]: Villager cmk['Villager'/35491, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
