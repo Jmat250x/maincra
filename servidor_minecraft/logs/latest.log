@@ -34,3 +34,7 @@
 [18:54:20] [Server thread/WARN]: Maycol_27x moved too quickly! -9.380817040560714,-2.0013359791121417,3.010763041016986
 [19:03:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=411, y=67, z=192} jd{x=410, y=68, z=194}
 [19:06:45] [Server thread/WARN]: Maycol_27x moved too quickly! -5.664029155911294,1.4587933830739956,-17.08926607335505
+[19:21:33] [Server thread/INFO]: Villager cmk['Villager'/1425, l='ServerLevel[world]', x=419.55, y=29.14, z=154.09] died, message: 'Villager tried to swim in lava'
+[19:21:34] [Server thread/INFO]: Villager cmk['Villager'/1426, l='ServerLevel[world]', x=419.70, y=29.71, z=153.30] died, message: 'Villager tried to swim in lava'
+[19:21:42] [Server thread/INFO]: Villager cmk['Villager'/8221, l='ServerLevel[world]', x=419.35, y=29.82, z=153.86] died, message: 'Villager tried to swim in lava'
+[19:25:28] [Server thread/INFO]: [Not Secure] <OROCHIMARU> setso
