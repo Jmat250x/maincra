@@ -86,7 +86,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-14 20:15:13 +0000",
-      "minecraft:soul_sand_valley": "2025-02-11 01:45:49 +0000"
+      "minecraft:soul_sand_valley": "2025-02-11 01:45:49 +0000",
+      "minecraft:nether_wastes": "2025-02-14 20:21:06 +0000"
     },
     "done": false
   },
@@ -1154,6 +1155,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-14 19:52:22 +0000",
+      "minecraft:enderman": "2025-02-14 20:25:41 +0000",
       "minecraft:spider": "2025-02-11 02:37:55 +0000",
       "minecraft:zombie": "2025-02-11 02:36:13 +0000",
       "minecraft:drowned": "2025-02-12 02:00:18 +0000"
@@ -2060,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-14 20:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-14 19:55:12 +0000"
@@ -2177,6 +2185,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-02-14 18:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-14 20:23:06 +0000"
     },
     "done": true
   },
