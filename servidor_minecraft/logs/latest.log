@@ -35,3 +35,15 @@
 [02:44:13] [Server thread/INFO]: Maycol_27x joined the game
 [02:45:26] [Server thread/INFO]: vGodbridger[/127.194.163.136:45029] logged in with entity id 2651 at (393.11206132794274, 68.0, 162.83111756044173)
 [02:45:26] [Server thread/INFO]: vGodbridger joined the game
+[02:51:11] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[02:51:11] [Server thread/INFO]: vGodbridger left the game
+[02:51:28] [Server thread/INFO]: vGodbridger[/127.194.163.136:49671] logged in with entity id 8101 at (366.1666027590567, 69.0, 183.3353056650393)
+[02:51:28] [Server thread/INFO]: vGodbridger joined the game
+[02:51:59] [Server thread/INFO]: Villager cmk['Villager'/1142, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[02:54:06] [Server thread/INFO]: Villager cmk['Villager'/1138, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[02:55:19] [Server thread/WARN]: Maycol_27x moved too quickly! -3.497279326725618,4.968995933039608,-17.04002495626102
+[02:55:42] [Server thread/WARN]: Maycol_27x moved too quickly! -3.54088410451169,1.7667846487780139,17.86964664726099
+[02:55:47] [Server thread/WARN]: Maycol_27x moved too quickly! -5.8109882662888594,6.111931606795316,16.19599371799905
+[02:55:59] [Server thread/INFO]: Villager cmk['Villager'/1143, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[02:59:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=311, y=78, z=211} jd{x=310, y=77, z=211}
+[02:59:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=311, y=78, z=211} jd{x=310, y=77, z=211}

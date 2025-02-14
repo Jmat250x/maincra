@@ -2529,5 +2529,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-02-14 02:46:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
