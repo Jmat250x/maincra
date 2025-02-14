@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-11 03:44:24 +0000",
       "minecraft:flower_forest": "2025-02-10 23:31:45 +0000",
+      "minecraft:savanna_plateau": "2025-02-14 21:40:05 +0000",
       "minecraft:beach": "2025-02-09 01:05:32 +0000",
       "minecraft:mushroom_fields": "2025-02-11 03:53:33 +0000",
       "minecraft:forest": "2025-02-09 01:05:33 +0000",
@@ -3622,6 +3623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-14 21:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-14 21:27:33 +0000"
@@ -3679,6 +3686,18 @@
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2025-02-14 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-14 21:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-02-14 21:30:44 +0000"
     },
     "done": true
   },
