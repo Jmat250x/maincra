@@ -795,6 +795,7 @@
       "minecraft:creeper": "2025-02-09 01:20:09 +0000",
       "minecraft:wither": "2025-02-15 18:42:22 +0000",
       "minecraft:slime": "2025-02-15 03:57:12 +0000",
+      "minecraft:evoker": "2025-02-15 20:17:39 +0000",
       "minecraft:phantom": "2025-02-15 16:50:27 +0000",
       "minecraft:zombified_piglin": "2025-02-15 03:03:13 +0000",
       "minecraft:witch": "2025-02-15 18:13:08 +0000",
@@ -805,6 +806,7 @@
       "minecraft:piglin": "2025-02-14 03:08:46 +0000",
       "minecraft:enderman": "2025-02-12 03:07:23 +0000",
       "minecraft:silverfish": "2025-02-12 02:53:14 +0000",
+      "minecraft:vex": "2025-02-15 20:14:17 +0000",
       "minecraft:zombie": "2025-02-09 01:22:28 +0000",
       "minecraft:zombie_villager": "2025-02-13 01:17:54 +0000"
     },
@@ -4251,9 +4253,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-15 20:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-02-15 19:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-15 20:12:28 +0000"
     },
     "done": true
   },

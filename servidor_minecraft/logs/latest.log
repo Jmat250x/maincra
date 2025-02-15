@@ -262,3 +262,37 @@
 [20:12:10] [Server thread/WARN]: handleDisconnection() called twice
 [20:12:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:39749] logged in with entity id 205604 at (426.823616884021, 68.0, 202.31156240785333)
 [20:12:34] [Server thread/INFO]: vGodbridger joined the game
+[20:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20:15:30] [Server thread/INFO]: vGodbridger has reached the goal [Postmortal]
+[20:18:02] [Server thread/INFO]: Jmat_2 was slain by Vex
+[20:18:18] [Server thread/INFO]: Jmat_2 was slain by Vex
+[20:18:24] [Server thread/INFO]: Villager cmk['Villager'/149422, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[20:18:36] [Server thread/INFO]: Jmat_2 was slain by Vex
+[20:18:57] [Server thread/INFO]: Jmat_2 was slain by Vex
+[20:19:41] [Server thread/INFO]: Jmat_2 was slain by Vex
+[20:21:28] [Server thread/INFO]: Jmat_2 was slain by Vex
+[20:23:27] [Server thread/INFO]: Jmat_2 has completed the challenge [Hero of the Village]
+[20:25:20] [Server thread/INFO]: Villager cmk['Villager'/181127, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[20:25:33] [Server thread/INFO]: Villager cmk['Villager'/166731, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[20:26:48] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[20:26:48] [Server thread/INFO]: Maycol_27x left the game
+[20:28:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=252, y=96, z=173} jd{x=251, y=95, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
+[20:29:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=95, z=165} jd{x=252, y=94, z=167}
+[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
+[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
+[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
+[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
+[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
+[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
+[20:34:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=101, z=220} jd{x=247, y=98, z=219}
+[20:34:55] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[20:34:55] [Server thread/INFO]: vGodbridger left the game
