@@ -90,3 +90,16 @@
 [17:54:19] [Server thread/INFO]: vGodbridger left the game
 [17:56:47] [Server thread/INFO]: nael_binbolo lost connection: Timed out
 [17:56:47] [Server thread/INFO]: nael_binbolo left the game
+[18:02:49] [Server thread/INFO]: vGodbridger[/127.194.163.136:49393] logged in with entity id 35871 at (379.39940528685963, 66.0, 250.69999998807907)
+[18:02:49] [Server thread/INFO]: vGodbridger joined the game
+[18:03:45] [Server thread/INFO]: Jmat_2[/127.31.58.135:53125] logged in with entity id 36731 at (122.44709535831039, -16.0, 334.30000001192093)
+[18:03:45] [Server thread/INFO]: Jmat_2 joined the game
+[18:04:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=56, z=282} jd{x=102, y=58, z=282}
+[18:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
+[18:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3744ms or 74 ticks behind
+[18:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:08:05] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
+[18:10:00] [Server thread/INFO]: Villager cmk['Villager'/29348, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
