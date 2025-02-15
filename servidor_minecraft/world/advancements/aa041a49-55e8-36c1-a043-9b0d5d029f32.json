@@ -3982,6 +3982,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 18:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-15 18:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-15 18:34:35 +0000"
@@ -4000,15 +4012,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_logs": "2025-02-15 18:13:30 +0000"
+      "wither_skull": "2025-02-15 18:40:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_slime_block": "2025-02-15 18:28:58 +0000"
+      "has_wither_skeleton_skull": "2025-02-15 18:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-15 18:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-15 18:42:06 +0000"
     },
     "done": true
   },

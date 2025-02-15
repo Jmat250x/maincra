@@ -128,3 +128,43 @@
 [18:41:30] [Server thread/INFO]: Maycol_27x has made the advancement [Take Aim]
 [18:41:48] [Server thread/INFO]: Jmat_2 was shot by a skull from Wither
 [18:42:22] [Server thread/INFO]: Jmat_2 withered away
+[18:43:34] [Server thread/INFO]: Villager cmk['Villager'/29364, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:48:16] [Server thread/INFO]: [Not Secure] <vGodbridger> sii tu quiere te presto las mias
+[18:48:57] [Server thread/INFO]: Villager cmk['Villager'/29368, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:49:50] [Server thread/INFO]: [Not Secure] <vGodbridger> TU ME VE CARA DE ALDEANO
+[18:50:41] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[18:50:41] [Server thread/INFO]: Jmat_2 left the game
+[18:52:20] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[18:52:20] [Server thread/INFO]: vGodbridger left the game
+[18:52:27] [Server thread/INFO]: Jmat_2[/127.31.58.135:40805] logged in with entity id 83230 at (392.24707237118906, 67.0, 179.68555591301737)
+[18:52:27] [Server thread/INFO]: Jmat_2 joined the game
+[18:53:08] [Server thread/INFO]: vGodbridger[/127.194.163.136:55195] logged in with entity id 84348 at (279.30000001192093, -56.0, 190.30708030015714)
+[18:53:08] [Server thread/INFO]: vGodbridger joined the game
+[18:54:53] [Server thread/INFO]: Villager cmk['Villager'/29367, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:55:44] [Server thread/INFO]: Villager cmk['Villager'/29366, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:59:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=267, y=96, z=201} jd{x=265, y=95, z=201}
+[18:59:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=267, y=96, z=201} jd{x=265, y=95, z=201}
+[19:01:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=264, y=99, z=208} jd{x=263, y=96, z=209}
+[19:01:50] [Server thread/INFO]: Villager cmk['Villager'/29365, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:01:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=262, y=95, z=196} jd{x=266, y=95, z=198}
+[19:02:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=262, y=101, z=203} jd{x=262, y=97, z=206}
+[19:03:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=261, y=102, z=203} jd{x=261, y=98, z=201}
+[19:03:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=261, y=102, z=202} jd{x=261, y=98, z=201}
+[19:03:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=261, y=98, z=214} jd{x=261, y=97, z=212}
+[19:03:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=278, y=94, z=227} jd{x=278, y=93, z=226}
+[19:04:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=280, y=94, z=230} jd{x=277, y=95, z=224}
+[19:04:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=280, y=94, z=230} jd{x=272, y=95, z=214}
+[19:05:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=280, y=94, z=230} jd{x=267, y=95, z=197}
+[19:08:52] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[19:08:52] [Server thread/INFO]: Maycol_27x left the game
+[19:09:21] [Server thread/INFO]: Maycol_27x[/127.137.81.102:46395] logged in with entity id 111201 at (417.69999998807907, 68.0, 197.68893728995116)
+[19:09:21] [Server thread/INFO]: Maycol_27x joined the game
+[19:09:27] [Server thread/INFO]: Villager cmk['Villager'/29363, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:11:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=96, z=201} jd{x=279, y=95, z=245}
+[19:11:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=96, z=201} jd{x=282, y=94, z=232}
+[19:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=100, z=209} jd{x=260, y=97, z=210}
+[19:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=100, z=209} jd{x=260, y=97, z=210}
+[19:11:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=98, z=207} jd{x=260, y=97, z=210}
+[19:12:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=97, z=211} jd{x=259, y=97, z=209}
+[19:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=100, z=217} jd{x=259, y=96, z=216}
+[19:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=100, z=217} jd{x=259, y=96, z=216}
