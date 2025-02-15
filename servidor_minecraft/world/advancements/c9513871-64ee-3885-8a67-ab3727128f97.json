@@ -1474,5 +1474,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-15 17:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
