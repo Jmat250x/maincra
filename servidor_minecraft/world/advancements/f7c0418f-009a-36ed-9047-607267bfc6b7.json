@@ -4245,5 +4245,17 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-02-15 19:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-02-15 19:37:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
