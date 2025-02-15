@@ -15,6 +15,7 @@
       "minecraft:mushroom_fields": "2025-02-11 03:53:32 +0000",
       "minecraft:forest": "2025-02-11 01:52:14 +0000",
       "minecraft:taiga": "2025-02-12 01:56:46 +0000",
+      "minecraft:mangrove_swamp": "2025-02-15 03:23:50 +0000",
       "minecraft:deep_ocean": "2025-02-11 03:43:30 +0000",
       "minecraft:river": "2025-02-11 01:44:06 +0000",
       "minecraft:lukewarm_ocean": "2025-02-15 03:10:43 +0000",
@@ -26,6 +27,7 @@
       "minecraft:windswept_gravelly_hills": "2025-02-11 04:04:22 +0000",
       "minecraft:windswept_hills": "2025-02-11 04:05:32 +0000",
       "minecraft:savanna": "2025-02-11 01:43:27 +0000",
+      "minecraft:windswept_savanna": "2025-02-15 03:30:16 +0000",
       "minecraft:plains": "2025-02-11 01:45:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-14 19:53:38 +0000"
     },
@@ -135,6 +137,7 @@
       "cooked_porkchop": "2025-02-11 03:57:10 +0000",
       "bread": "2025-02-11 02:37:27 +0000",
       "cooked_chicken": "2025-02-11 02:05:52 +0000",
+      "suspicious_stew": "2025-02-15 03:21:28 +0000",
       "baked_potato": "2025-02-11 02:36:39 +0000",
       "golden_carrot": "2025-02-11 04:00:50 +0000",
       "carrot": "2025-02-11 01:46:38 +0000"
@@ -2257,6 +2260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-15 03:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-02-15 02:17:00 +0000"
@@ -2281,6 +2290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-15 03:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-15 02:17:00 +0000"
@@ -2302,6 +2317,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-15 02:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-15 03:37:17 +0000"
     },
     "done": true
   },
@@ -2344,6 +2365,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-02-15 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-15 03:21:28 +0000"
     },
     "done": true
   },
