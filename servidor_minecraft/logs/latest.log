@@ -174,3 +174,10 @@
 [19:19:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=276, y=95, z=207} jd{x=279, y=92, z=212}
 [19:21:48] [Server thread/INFO]: Villager cmk['Villager'/60917, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
 [19:22:17] [Server thread/INFO]: Villager cmk['Villager'/85146, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:24:17] [Server thread/INFO]: nael_binbolo[/127.171.65.9:36433] logged in with entity id 134425 at (375.2156460201181, 66.0, 176.1706662345178)
+[19:24:17] [Server thread/INFO]: nael_binbolo joined the game
+[19:24:22] [Server thread/INFO]: Villager cmk['Villager'/80066, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:25:36] [Server thread/INFO]: [Not Secure] <nael_binbolo> si
+[19:27:49] [Server thread/INFO]: nael_binbolo has made the advancement [Into Fire]
+[19:27:57] [Server thread/INFO]: nael_binbolo has made the advancement [Ice Bucket Challenge]
+[19:29:04] [Server thread/INFO]: Villager cmk['Villager'/95624, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
