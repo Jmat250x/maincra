@@ -988,7 +988,8 @@
       "minecraft:zombie": "2025-02-09 16:54:52 +0000",
       "minecraft:creeper": "2025-02-11 00:55:26 +0000",
       "minecraft:drowned": "2025-02-09 18:16:07 +0000",
-      "minecraft:zombie_villager": "2025-02-09 19:21:02 +0000"
+      "minecraft:zombie_villager": "2025-02-09 19:21:02 +0000",
+      "minecraft:slime": "2025-02-15 03:57:31 +0000"
     },
     "done": false
   },
@@ -2848,9 +2849,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-15 03:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 03:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-02-15 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-15 03:54:49 +0000"
     },
     "done": true
   },
@@ -2926,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-02-15 03:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-15 03:33:04 +0000"
@@ -2953,6 +2978,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-15 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 03:58:38 +0000"
     },
     "done": true
   },
@@ -3061,6 +3092,18 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
       "has_tuff_bricks": "2025-02-15 03:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 03:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-02-15 03:55:33 +0000"
     },
     "done": true
   },
