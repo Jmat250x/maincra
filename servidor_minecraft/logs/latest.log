@@ -103,3 +103,18 @@
 [18:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [18:08:05] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
 [18:10:00] [Server thread/INFO]: Villager cmk['Villager'/29348, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[18:12:03] [Server thread/WARN]: Maycol_27x moved too quickly! -1.332784740713464,-16.962570314209245,6.6266621060384665
+[18:13:34] [Server thread/WARN]: Maycol_27x moved too quickly! -9.269393445468381,3.5545966747760644,14.737812391411055
+[18:13:36] [Server thread/WARN]: Maycol_27x moved too quickly! -6.402022883327902,2.8099260253627847,16.137685818875596
+[18:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[18:14:44] [Server thread/INFO]: [Not Secure] <Jmat_2> ./difficulty hard
+[18:15:35] [Server thread/WARN]: Jmat_2 moved too quickly! 18.337147026133493,-5.034956210800843,-1.0458334036418364
+[18:15:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=462, y=67, z=343} jd{x=463, y=66, z=342}
+[18:15:43] [Server thread/INFO]: Villager cmk['Villager'/29349, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:18:11] [Server thread/WARN]: Jmat_2 moved wrongly!
+[18:20:29] [Server thread/WARN]: Maycol_27x moved too quickly! 0.7948446528206645,-1.4019320078475914,10.529123191801432
+[18:25:50] [Server thread/WARN]: Maycol_27x moved too quickly! 7.354115815159105,3.219088995084917,6.294214693263484
+[18:30:06] [Server thread/INFO]: Villager cmk['Villager'/29355, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[18:30:29] [Server thread/INFO]: vGodbridger has reached the goal [Sky's the Limit]

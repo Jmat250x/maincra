@@ -3982,5 +3982,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 18:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-15 18:28:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
