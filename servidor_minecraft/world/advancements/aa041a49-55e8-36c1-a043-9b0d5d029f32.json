@@ -745,6 +745,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-11 01:34:32 +0000",
+      "minecraft:pillager": "2025-02-15 20:09:03 +0000",
       "minecraft:skeleton": "2025-02-09 01:08:40 +0000",
       "minecraft:phantom": "2025-02-15 18:08:02 +0000",
       "minecraft:witch": "2025-02-09 18:56:22 +0000",
@@ -756,6 +757,7 @@
       "minecraft:shulker": "2025-02-13 01:55:22 +0000",
       "minecraft:piglin": "2025-02-09 18:19:49 +0000",
       "minecraft:breeze": "2025-02-15 03:33:54 +0000",
+      "minecraft:vindicator": "2025-02-15 20:09:44 +0000",
       "minecraft:enderman": "2025-02-11 00:36:42 +0000",
       "minecraft:silverfish": "2025-02-12 02:51:49 +0000",
       "minecraft:endermite": "2025-02-15 03:00:26 +0000",
@@ -4042,9 +4044,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-15 20:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-02-15 19:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-15 19:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-02-15 19:56:15 +0000"
     },
     "done": true
   },

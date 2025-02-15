@@ -227,3 +227,38 @@
 [19:42:47] [Server thread/WARN]: Maycol_27x moved too quickly! -17.922970441100006,-1.5190751648422065,-0.007393358398530836
 [19:43:51] [Server thread/INFO]: Villager cmk['Villager'/85550, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
 [19:44:11] [Server thread/INFO]: nael_binbolo has made the advancement [We Need to Go Deeper]
+[19:44:57] [Server thread/INFO]: nael_binbolo has made the advancement [Eye Spy]
+[19:45:06] [Server thread/INFO]: nael_binbolo has made the advancement [The End?]
+[19:46:39] [Server thread/INFO]: Villager cmk['Villager'/129377, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:48:40] [Server thread/INFO]: Villager cmk['Villager'/126249, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:55:20] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[19:55:20] [Server thread/INFO]: nael_binbolo left the game
+[19:56:09] [Server thread/INFO]: vGodbridger has reached the goal [Beaconator]
+[19:56:09] [Server thread/INFO]: vGodbridger has made the advancement [Bring Home the Beacon]
+[20:01:16] [Server thread/WARN]: Maycol_27x moved too quickly! 1.6683290135651987,-0.9601211666088432,18.38797679604977
+[20:02:05] [Server thread/INFO]: Villager cmk['Villager'/132096, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[20:02:41] [Server thread/INFO]: nael_binbolo[/127.171.65.9:47163] logged in with entity id 190943 at (491.29287259939383, 63.875, -16.292622245162818)
+[20:02:41] [Server thread/INFO]: nael_binbolo joined the game
+[20:04:23] [Server thread/INFO]: Villager cmk['Villager'/120242, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[20:06:12] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[20:06:12] [Server thread/INFO]: nael_binbolo left the game
+[20:06:20] [Server thread/INFO]: nael_binbolo[/127.171.65.9:35467] logged in with entity id 198835 at (369.1362468563698, 66.0, 182.93728734107927)
+[20:06:20] [Server thread/INFO]: nael_binbolo joined the game
+[20:07:20] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[20:07:20] [Server thread/INFO]: nael_binbolo left the game
+[20:07:27] [Server thread/INFO]: nael_binbolo[/127.171.65.9:38369] logged in with entity id 201061 at (446.1353525072981, 64.0, 102.9150595150221)
+[20:07:27] [Server thread/INFO]: nael_binbolo joined the game
+[20:07:33] [Server thread/INFO]: Villager cmk['Villager'/126015, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[20:08:35] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[20:08:35] [Server thread/INFO]: nael_binbolo left the game
+[20:10:04] [Server thread/INFO]: Jmat_2 has made the advancement [Voluntary Exile]
+[20:10:56] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[20:10:56] [Server thread/INFO]: vGodbridger left the game
+[20:10:56] [Server thread/WARN]: handleDisconnection() called twice
+[20:11:25] [Server thread/INFO]: vGodbridger[/127.194.163.136:40389] logged in with entity id 204608 at (390.21480857162476, 68.79673560066871, 198.3810082578102)
+[20:11:25] [Server thread/INFO]: vGodbridger joined the game
+[20:12:10] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[20:12:10] [Server thread/INFO]: vGodbridger left the game
+[20:12:10] [Server thread/WARN]: handleDisconnection() called twice
+[20:12:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:39749] logged in with entity id 205604 at (426.823616884021, 68.0, 202.31156240785333)
+[20:12:34] [Server thread/INFO]: vGodbridger joined the game

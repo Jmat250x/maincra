@@ -9,13 +9,16 @@
     "criteria": {
       "minecraft:flower_forest": "2025-02-15 03:06:48 +0000",
       "minecraft:savanna_plateau": "2025-02-15 03:03:16 +0000",
+      "minecraft:beach": "2025-02-15 19:52:00 +0000",
       "minecraft:forest": "2025-02-15 03:34:31 +0000",
       "minecraft:sparse_jungle": "2025-02-15 17:00:20 +0000",
       "minecraft:jungle": "2025-02-15 17:24:54 +0000",
+      "minecraft:ocean": "2025-02-15 19:52:02 +0000",
       "minecraft:river": "2025-02-15 03:02:23 +0000",
       "minecraft:dripstone_caves": "2025-02-15 17:25:20 +0000",
       "minecraft:savanna": "2025-02-15 03:00:15 +0000",
-      "minecraft:plains": "2025-02-15 03:03:35 +0000"
+      "minecraft:plains": "2025-02-15 03:03:35 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-15 19:44:57 +0000"
     },
     "done": false
   },
@@ -206,6 +209,7 @@
       "minecraft:pillager": "2025-02-15 17:45:50 +0000",
       "minecraft:skeleton": "2025-02-15 17:31:48 +0000",
       "minecraft:breeze": "2025-02-15 03:44:17 +0000",
+      "minecraft:enderman": "2025-02-15 19:45:57 +0000",
       "minecraft:spider": "2025-02-15 03:11:15 +0000",
       "minecraft:zombie": "2025-02-15 03:11:22 +0000",
       "minecraft:husk": "2025-02-15 03:38:20 +0000",
@@ -1492,51 +1496,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-02-15 19:37:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-15 19:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-02-15 19:27:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-02-15 19:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-15 19:27:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-15 19:27:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-02-15 19:38:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-15 19:28:03 +0000"
     },
     "done": true
   },
@@ -1546,15 +1508,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_blaze_powder": "2025-02-15 19:28:03 +0000"
+      "has_blaze_rod": "2025-02-15 19:27:49 +0000"
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "beacon": "2025-02-15 19:37:05 +0000"
+      "has_obsidian": "2025-02-15 19:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-15 19:27:57 +0000"
     },
     "done": true
   },
@@ -1564,15 +1532,130 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-15 19:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-15 19:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-15 19:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-15 19:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-02-15 19:30:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_blaze_rod": "2025-02-15 19:27:49 +0000"
+      "beacon": "2025-02-15 19:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-02-15 19:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-15 19:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-15 19:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-15 19:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-15 19:44:19 +0000",
+      "minecraft:soul_sand_valley": "2025-02-15 19:44:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-15 19:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-15 19:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-15 19:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 19:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 19:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-15 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-15 20:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-15 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-15 20:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-15 20:08:15 +0000"
     },
     "done": true
   },
