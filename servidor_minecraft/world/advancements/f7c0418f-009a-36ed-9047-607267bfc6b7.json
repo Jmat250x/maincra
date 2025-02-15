@@ -781,6 +781,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-14 03:06:06 +0000",
+      "minecraft:pillager": "2025-02-15 17:45:48 +0000",
       "minecraft:skeleton": "2025-02-09 01:23:08 +0000",
       "minecraft:phantom": "2025-02-15 16:50:27 +0000",
       "minecraft:zombified_piglin": "2025-02-15 03:03:13 +0000",
@@ -4185,6 +4186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-15 17:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-02-15 17:38:46 +0000"
@@ -4197,9 +4204,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-02-15 17:29:53 +0000"
+      "voluntary_exile": "2025-02-15 17:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-15 17:47:14 +0000"
     },
     "done": true
   },
