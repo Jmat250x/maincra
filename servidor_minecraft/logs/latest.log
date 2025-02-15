@@ -1,217 +1,42 @@
-[01:59:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:59:36] [ServerMain/INFO]: Loaded 1290 recipes
-[01:59:37] [ServerMain/INFO]: Loaded 1399 advancements
-[01:59:38] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:59:38] [Server thread/INFO]: Loading properties
-[01:59:38] [Server thread/INFO]: Default game type: SURVIVAL
-[01:59:38] [Server thread/INFO]: Generating keypair
-[01:59:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:59:38] [Server thread/INFO]: Using epoll channel type
-[01:59:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:59:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:59:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:59:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:59:38] [Server thread/INFO]: Preparing level "world"
-[01:59:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:59:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:48] [Server thread/INFO]: Time elapsed: 2314 ms
-[01:59:48] [Server thread/INFO]: Done (9.876s)! For help, type "help"
-[01:59:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:59:48] [Server thread/INFO]: <--[HERE]
-[02:00:00] [Server thread/INFO]: Jmat_2[/127.31.58.135:50261] logged in with entity id 15 at (380.420149982751, 67.24918707874468, 162.30012890253346)
-[02:00:00] [Server thread/INFO]: Jmat_2 joined the game
-[02:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[02:00:04] [Server thread/INFO]: Maycol_27x[/127.137.81.102:48685] logged in with entity id 374 at (409.7687436836207, 68.0, 180.29910361738033)
-[02:00:04] [Server thread/INFO]: Maycol_27x joined the game
-[02:00:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13440ms or 268 ticks behind
-[02:00:34] [Server thread/INFO]: Maycol_27x lost connection: Timed out
-[02:00:34] [Server thread/INFO]: Maycol_27x left the game
-[02:00:35] [Server thread/WARN]: handleDisconnection() called twice
-[02:00:52] [Server thread/INFO]: Maycol_27x[/127.137.81.102:59635] logged in with entity id 1115 at (409.7687436836207, 68.0, 180.29910361738033)
-[02:00:52] [Server thread/INFO]: Maycol_27x joined the game
-[02:01:57] [Server thread/INFO]: OROCHIMARU[/127.37.112.168:48701] logged in with entity id 2126 at (374.2314195741111, 66.0, 181.40760413748697)
-[02:01:57] [Server thread/INFO]: OROCHIMARU joined the game
-[02:02:57] [Server thread/INFO]: OROCHIMARU tried to swim in lava
-[02:04:22] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[02:04:22] [Server thread/INFO]: Maycol_27x left the game
-[02:04:31] [Server thread/INFO]: Maycol_27x[/127.137.81.102:57467] logged in with entity id 4597 at (322.9738986683748, 64.0, 171.9536756387167)
-[02:04:31] [Server thread/INFO]: Maycol_27x joined the game
-[02:05:41] [Server thread/INFO]: OROCHIMARU has reached the goal [Sky's the Limit]
-[02:06:11] [Server thread/INFO]: vGodbridger[/127.194.163.136:39923] logged in with entity id 6200 at (411.19146975893597, 69.0, 169.73622121347088)
-[02:06:11] [Server thread/INFO]: vGodbridger joined the game
-[02:07:05] [Server thread/INFO]: [Not Secure] <vGodbridger> LO DE LOS ALDEANOS SE VOLVIO UNA COSINA
-[02:07:45] [Server thread/INFO]: Maycol_27x has made the advancement [Spooky Scary Skeleton]
-[02:11:13] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,-10.221069856431782,0.0
-[02:12:27] [Server thread/WARN]: Maycol_27x moved too quickly! -10.098757703418926,-1.6815583980583142,0.6188253849596492
-[02:12:36] [Server thread/WARN]: Maycol_27x was kicked for floating too long!
-[02:12:36] [Server thread/INFO]: Maycol_27x lost connection: Flying is not enabled on this server
-[02:12:36] [Server thread/INFO]: Maycol_27x left the game
-[02:12:43] [Server thread/INFO]: Maycol_27x[/127.137.81.102:56005] logged in with entity id 13938 at (347.38439614500226, 65.7531999805212, 165.66065248744323)
-[02:12:43] [Server thread/INFO]: Maycol_27x joined the game
-[02:13:44] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
-[02:13:44] [Server thread/INFO]: OROCHIMARU left the game
-[02:13:55] [Server thread/WARN]: Maycol_27x moved too quickly! -14.776936266044473,3.4120627881882015,-8.752327988372667
-[02:14:22] [Server thread/WARN]: Maycol_27x moved too quickly! 16.62725629243692,-1.8376013800793913,7.569041839036089
-[02:16:39] [Server thread/INFO]: OROCHIMARU[/127.37.112.168:38869] logged in with entity id 20477 at (376.7805893145481, 66.0, 192.69999998807907)
-[02:16:39] [Server thread/INFO]: OROCHIMARU joined the game
-[02:19:22] [Server thread/WARN]: Maycol_27x moved too quickly! -1.923676476351194,7.621873003260397,-16.431935877921774
-[02:22:27] [Server thread/WARN]: Maycol_27x moved too quickly! -12.287011541497066,6.212075929305797,11.86931728584318
-[02:24:07] [Server thread/INFO]: OROCHIMARU experienced kinetic energy
-[02:24:09] [Server thread/WARN]: OROCHIMARU moved too quickly! -6.023072252642919,-7.723211036310225,4.046443900172562
-[02:25:18] [Server thread/INFO]: Villager cmk['Villager'/5257, l='ServerLevel[world]', x=410.30, y=25.78, z=154.70] died, message: 'Villager suffocated in a wall'
-[02:28:22] [Server thread/WARN]: Maycol_27x moved too quickly! -14.45787823641382,8.72073591402436,4.5420910460989035
-[02:29:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=369, y=65, z=174} jd{x=380, y=68, z=176}
-[02:29:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=380, y=67, z=176} jd{x=380, y=68, z=176}
-[02:29:28] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
-[02:30:13] [Server thread/INFO]: Maycol_27x has made the advancement [Minecraft: Trial(s) Edition]
-[02:32:25] [Server thread/WARN]: Maycol_27x moved too quickly! 11.07334291824418,-7.146640131188974,-12.6570369155003
-[02:32:30] [Server thread/WARN]: Maycol_27x moved too quickly! 17.224496773938995,-3.5283877664425347,-1.1238794513088237
-[02:33:31] [Server thread/INFO]: [Not Secure] <Maycol_27x> OROCHIMARU dc
-[02:43:23] [Server thread/INFO]: [Not Secure] <vGodbridger> ?
-[02:43:37] [Server thread/INFO]: [Not Secure] <vGodbridger> ya compre to
-[02:44:42] [Server thread/INFO]: [Not Secure] <vGodbridger> pq tamo abajo
-[02:45:42] [Server thread/INFO]: [Not Secure] <vGodbridger> DA LO MISMO
-[02:45:49] [Server thread/INFO]: [Not Secure] <vGodbridger> tamo abajo
-[02:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02:49:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=361, y=63, z=145} jd{x=361, y=64, z=145}
-[02:53:19] [Server thread/INFO]: [Not Secure] <vGodbridger> NI IDEA
-[02:54:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=330, y=66, z=-235} jd{x=409, y=70, z=-281}
-[02:54:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=330, y=66, z=-235} jd{x=409, y=70, z=-281}
-[02:54:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=330, y=66, z=-235} jd{x=409, y=70, z=-281}
-[02:54:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=330, y=66, z=-235} jd{x=409, y=70, z=-281}
-[02:54:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=330, y=66, z=-235} jd{x=409, y=70, z=-281}
-[02:56:27] [Server thread/INFO]: [Not Secure] <OROCHIMARU> yo
-[02:56:38] [Server thread/INFO]: [Not Secure] <OROCHIMARU> casa
-[02:58:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=300, y=71, z=-294} jd{x=284, y=69, z=-301}
-[02:59:15] [Server thread/WARN]: Maycol_27x moved too quickly! -10.52875377014891,0.41999998688697815,0.05978941582043262
-[02:59:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=49, y=103, z=19} jd{x=53, y=123, z=19}
-[02:59:20] [Server thread/INFO]: [Not Secure] <OROCHIMARU> se robaro mi corta piedra
-[02:59:29] [Server thread/WARN]: Maycol_27x moved too quickly! -10.304872885280702,0.011523858383753804,0.010544918937057446
-[03:00:14] [Server thread/INFO]: nael_binbolo[/127.171.65.9:43553] logged in with entity id 64755 at (-6.5, 111.0, 5.5)
-[03:00:15] [Server thread/INFO]: nael_binbolo joined the game
-[03:00:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:00:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=304, y=66, z=-280} jd{x=343, y=55, z=-223}
-[03:01:59] [Server thread/INFO]: [Not Secure] <OROCHIMARU> y mi corta piedra
-[03:02:00] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
-[03:02:01] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
-[03:03:43] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[03:03:43] [Server thread/INFO]: Jmat_2 left the game
-[03:04:01] [Server thread/INFO]: Jmat_2[/127.31.58.135:51851] logged in with entity id 69549 at (461.69999998807907, 11.338251747193068, 1414.699999988079)
-[03:04:01] [Server thread/INFO]: Jmat_2 joined the game
-[03:04:03] [Server thread/INFO]: [Jmat_2: Set own game mode to Creative Mode]
-[03:04:05] [Server thread/INFO]: [Not Secure] <OROCHIMARU> sida yo
-[03:04:13] [Server thread/INFO]: [Not Secure] <OROCHIMARU> 1
-[03:04:22] [Server thread/INFO]: [Not Secure] <OROCHIMARU> al vacio
-[03:04:24] [Server thread/INFO]: nael_binbolo has made the advancement [Sweet Dreams]
-[03:04:28] [Server thread/INFO]: [Jmat_2: Set own game mode to Spectator Mode]
-[03:04:31] [Server thread/INFO]: [Not Secure] <OROCHIMARU> la otra al suelo
-[03:04:38] [Server thread/INFO]: [Jmat_2: Set own game mode to Creative Mode]
-[03:04:43] [Server thread/INFO]: [Jmat_2: Set own game mode to Survival Mode]
-[03:05:15] [Server thread/INFO]: nael_binbolo has made the advancement [What a Deal!]
-[03:05:33] [Server thread/INFO]: [Not Secure] <OROCHIMARU> disculpa
-[03:07:10] [Server thread/INFO]: nael_binbolo has made the advancement [Cover Me with Diamonds]
-[03:07:46] [Server thread/INFO]: [Not Secure] <OROCHIMARU> no
-[03:09:02] [Server thread/INFO]: [Not Secure] <vGodbridger> VAMONO
-[03:09:26] [Server thread/INFO]: [Not Secure] <vGodbridger> contra 4
-[03:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[03:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
-[03:11:15] [Server thread/INFO]: nael_binbolo has made the advancement [Monster Hunter]
-[03:14:41] [Server thread/INFO]: vGodbridger has made the advancement [Ice Bucket Challenge]
-[03:15:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=49, y=125, z=27} jd{x=50, y=125, z=28}
-[03:16:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=124, z=33} jd{x=44, y=123, z=33}
-[03:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[03:21:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8933ms or 178 ticks behind
-[03:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13806ms or 276 ticks behind
-[03:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[03:22:23] [Server thread/WARN]: Trying to set block entity dql@45959433 at position jd{x=1088, y=22, z=2404}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
-[03:24:13] [Server thread/INFO]: nael_binbolo has made the advancement [Acquire Hardware]
-[03:26:33] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[03:26:33] [Server thread/INFO]: nael_binbolo left the game
-[03:29:15] [Server thread/WARN]: Maycol_27x moved too quickly! 0.2181443743119189,-11.041569225186521,0.3485830082081893
-[03:29:22] [Server thread/WARN]: Maycol_27x moved too quickly! 0.5584549544095694,-17.65467881622189,-4.083950580245963
-[03:30:49] [Server thread/INFO]: nael_binbolo[/127.171.65.9:51669] logged in with entity id 120773 at (368.30000001192093, 66.0, 183.7703252600473)
-[03:30:49] [Server thread/INFO]: nael_binbolo joined the game
-[03:31:22] [Server thread/WARN]: Maycol_27x moved too quickly! -12.346455872622869,8.97810616046462,8.994604488003574
-[03:31:25] [Server thread/WARN]: Maycol_27x moved too quickly! -16.639231788261668,4.359366238292338,5.697900346068678
-[03:31:56] [Server thread/WARN]: Maycol_27x moved too quickly! -10.200434950794772,3.7110462683719874,3.4014388995815352
-[03:31:59] [Server thread/WARN]: Maycol_27x moved too quickly! -13.374497085327391,4.5036924124041064,-10.980415481015314
-[03:32:41] [Server thread/WARN]: Maycol_27x moved too quickly! -10.183591667645274,9.232897046750793,10.802384229038182
-[03:32:50] [Server thread/WARN]: Maycol_27x moved too quickly! -13.058746291208337,3.5761889268653277,11.547574144081807
-[03:33:42] [Server thread/INFO]: vGodbridger has made the advancement [Minecraft: Trial(s) Edition]
-[03:33:42] [Server thread/INFO]: Jmat_2 has made the advancement [Minecraft: Trial(s) Edition]
-[03:35:58] [Server thread/INFO]: vGodbridger has made the advancement [Under Lock and Key]
-[03:36:08] [Server thread/INFO]: Jmat_2 has made the advancement [Under Lock and Key]
-[03:36:11] [Server thread/INFO]: nael_binbolo has made the advancement [Stone Age]
-[03:36:23] [Server thread/INFO]: Maycol_27x has made the advancement [Under Lock and Key]
-[03:37:11] [Server thread/INFO]: nael_binbolo has made the advancement [Minecraft: Trial(s) Edition]
-[03:40:36] [Server thread/INFO]: nael_binbolo has made the advancement [Under Lock and Key]
-[03:41:15] [Server thread/INFO]: [Not Secure] <vGodbridger> DISCO
-[03:42:42] [Server thread/INFO]: [Not Secure] <nael_binbolo> me la bebi?
-[03:42:54] [Server thread/INFO]: [Not Secure] <nael_binbolo> gogogo
-[03:43:21] [Server thread/INFO]: OROCHIMARU has made the advancement [Minecraft: Trial(s) Edition]
-[03:46:26] [Server thread/INFO]: [Not Secure] <nael_binbolo> tengo 4 llaves
-[03:47:22] [Server thread/INFO]: [Not Secure] <OROCHIMARU> nael la llave
-[03:47:26] [Server thread/INFO]: [Not Secure] <nael_binbolo> que
-[03:47:33] [Server thread/INFO]: [Not Secure] <OROCHIMARU> sueltala
-[03:47:37] [Server thread/INFO]: [Not Secure] <nael_binbolo> escribe que no estoy en discord
-[03:47:41] [Server thread/INFO]: [Not Secure] <Maycol_27x> pasala
-[03:47:46] [Server thread/INFO]: [Not Secure] <nael_binbolo> todas ?
-[03:47:52] [Server thread/INFO]: [Not Secure] <Maycol_27x> dividelas
-[03:48:57] [Server thread/INFO]: nael_binbolo has made the advancement [Ol' Betsy]
-[03:48:57] [Server thread/INFO]: nael_binbolo has made the advancement [Take Aim]
-[03:49:10] [Server thread/INFO]: OROCHIMARU has made the advancement [Under Lock and Key]
-[03:49:27] [Server thread/INFO]: [Not Secure] <OROCHIMARU> casi me matas nael
-[03:49:36] [Server thread/INFO]: [Not Secure] <nael_binbolo> a
-[03:49:46] [Server thread/INFO]: [Not Secure] <nael_binbolo> yo tengo la pocion todavia
-[03:51:01] [Server thread/INFO]: [Not Secure] <nael_binbolo> que hice con la pocion ?
-[03:51:45] [Server thread/INFO]: OROCHIMARU was slain by Husk
-[03:52:46] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
-[03:52:46] [Server thread/INFO]: OROCHIMARU left the game
-[03:53:58] [Server thread/INFO]: [Not Secure] <nael_binbolo> leyter
-[03:54:11] [Server thread/INFO]: Jmat_2 has reached the goal [Revaulting]
-[03:54:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=90, y=-30, z=322} jd{x=71, y=-27, z=327}
-[03:54:29] [Server thread/INFO]: Maycol_27x has reached the goal [Revaulting]
-[03:54:43] [Server thread/INFO]: vGodbridger has reached the goal [Revaulting]
-[03:54:55] [Server thread/INFO]: nael_binbolo has reached the goal [Revaulting]
-[03:54:58] [Server thread/INFO]: nael_binbolo has made the advancement [Diamonds!]
-[03:55:08] [Server thread/INFO]: [Not Secure] <nael_binbolo> diseño
-[03:55:16] [Server thread/INFO]: [Not Secure] <nael_binbolo> yo tengo la llave de julia
-[03:55:25] [Server thread/INFO]: [Not Secure] <nael_binbolo> la uso ?
-[03:55:50] [Server thread/INFO]: [Not Secure] <nael_binbolo> si o no
-[03:55:55] [Server thread/INFO]: [Not Secure] <nael_binbolo> responda
-[03:55:56] [Server thread/INFO]: [Not Secure] <Jmat_2> no
-[03:55:58] [Server thread/INFO]: [Not Secure] <Jmat_2> yo tengo
-[03:56:00] [Server thread/INFO]: [Not Secure] <Maycol_27x> dc
-[03:56:04] [Server thread/INFO]: [Not Secure] <nael_binbolo> no puedo
-[03:59:05] [Server thread/INFO]: [Not Secure] <nael_binbolo> dio ?
-[03:59:12] [Server thread/INFO]: [Not Secure] <Jmat_2> no, vamos a otra sala
-[04:02:16] [Server thread/INFO]: [Not Secure] <nael_binbolo> tengo llave
-[04:02:40] [Server thread/INFO]: [Not Secure] <nael_binbolo> venga
-[04:03:15] [Server thread/INFO]: [Not Secure] <nael_binbolo> jose
-[04:03:19] [Server thread/INFO]: [Not Secure] <Jmat_2> q
-[04:03:25] [Server thread/INFO]: [Not Secure] <nael_binbolo> tu llave
-[04:03:53] [Server thread/INFO]: [Not Secure] <Maycol_27x> tiene 2 todos
-[04:04:05] [Server thread/INFO]: [Not Secure] <nael_binbolo> falta la mia
-[04:05:12] [Server thread/INFO]: [Not Secure] <nael_binbolo> seguimos
-[04:05:18] [Server thread/INFO]: [Not Secure] <Maycol_27x> foto
-[04:08:46] [Server thread/INFO]: [Not Secure] <Maycol_27x> vennn
-[04:08:57] [Server thread/INFO]: [Not Secure] <nael_binbolo> el gueso
-[04:08:59] [Server thread/INFO]: [Not Secure] <Maycol_27x> sueltala
-[04:11:01] [Server thread/INFO]: [Not Secure] <nael_binbolo> alguien tiene enderchest
-[04:11:53] [Server thread/INFO]: [Not Secure] <nael_binbolo> manzana
-[04:11:59] [Server thread/INFO]: [Not Secure] <nael_binbolo> encantada
-[04:12:00] [Server thread/INFO]: [Not Secure] <Jmat_2> duro
-[04:13:08] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[04:13:08] [Server thread/INFO]: nael_binbolo left the game
+[16:39:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:39:45] [ServerMain/INFO]: Loaded 1290 recipes
+[16:39:46] [ServerMain/INFO]: Loaded 1399 advancements
+[16:39:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:39:48] [Server thread/INFO]: Loading properties
+[16:39:48] [Server thread/INFO]: Default game type: SURVIVAL
+[16:39:48] [Server thread/INFO]: Generating keypair
+[16:39:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:39:49] [Server thread/INFO]: Using epoll channel type
+[16:39:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:39:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:39:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:39:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:39:49] [Server thread/INFO]: Preparing level "world"
+[16:39:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:01] [Server thread/INFO]: Time elapsed: 2049 ms
+[16:40:01] [Server thread/INFO]: Done (11.729s)! For help, type "help"
+[16:40:24] [Server thread/INFO]: Maycol_27x[/127.137.81.102:58137] logged in with entity id 18 at (379.8178168746117, 66.0, 188.65366821960598)
+[16:40:24] [Server thread/INFO]: Maycol_27x joined the game
+[16:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
+[16:40:49] [Server thread/INFO]: Villager cmk['Villager'/241, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[16:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12486ms or 249 ticks behind
+[16:40:54] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[16:40:54] [Server thread/INFO]: Maycol_27x left the game
+[16:40:55] [Server thread/WARN]: handleDisconnection() called twice
+[16:41:05] [Server thread/INFO]: nael_binbolo[/127.171.65.9:44757] logged in with entity id 679 at (116.82137617590472, -25.0, 380.69999998807907)
+[16:41:05] [Server thread/INFO]: nael_binbolo joined the game
+[16:41:26] [Server thread/INFO]: Maycol_27x[/127.137.81.102:45211] logged in with entity id 1324 at (379.8178168746117, 66.0, 188.65366821960598)
+[16:41:26] [Server thread/INFO]: Maycol_27x joined the game
+[16:41:38] [Server thread/INFO]: Villager cmk['Villager'/1474, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[16:42:43] [Server thread/INFO]: vGodbridger[/127.194.163.136:53309] logged in with entity id 2269 at (121.70311625812491, 36.0, 281.47150613333804)
+[16:42:43] [Server thread/INFO]: vGodbridger joined the game
+[16:42:46] [Server thread/WARN]: Maycol_27x was kicked for floating too long!
+[16:42:46] [Server thread/INFO]: Maycol_27x lost connection: Flying is not enabled on this server
+[16:42:46] [Server thread/INFO]: Maycol_27x left the game
+[16:43:00] [Server thread/INFO]: Maycol_27x[/127.137.81.102:56263] logged in with entity id 2378 at (348.932608293423, 66.7531999805212, 172.15897435770475)
+[16:43:00] [Server thread/INFO]: Maycol_27x joined the game
+[16:44:39] [Server thread/INFO]: Villager cmk['Cartographer'/2550, l='ServerLevel[world]', x=416.07, y=25.06, z=156.50] died, message: 'Cartographer tried to swim in lava'
