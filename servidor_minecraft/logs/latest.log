@@ -168,3 +168,9 @@
 [19:12:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=97, z=211} jd{x=259, y=97, z=209}
 [19:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=100, z=217} jd{x=259, y=96, z=216}
 [19:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=100, z=217} jd{x=259, y=96, z=216}
+[19:14:57] [Server thread/INFO]: Villager cmk['Villager'/29369, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:18:30] [Server thread/INFO]: Villager cmk['Villager'/56528, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:18:37] [Server thread/INFO]: Villager cmk['Villager'/48739, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:19:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=276, y=95, z=207} jd{x=279, y=92, z=212}
+[19:21:48] [Server thread/INFO]: Villager cmk['Villager'/60917, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[19:22:17] [Server thread/INFO]: Villager cmk['Villager'/85146, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
