@@ -4253,21 +4253,52 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-15 20:12:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-02-15 19:37:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-15 20:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-02-15 20:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-17 21:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-17 21:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-17 21:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-02-17 22:02:13 +0000",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-02-17 22:01:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-02-17 22:01:12 +0000"
     },
     "done": true
   },

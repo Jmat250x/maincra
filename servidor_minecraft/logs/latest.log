@@ -1,300 +1,61 @@
-[16:39:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:39:45] [ServerMain/INFO]: Loaded 1290 recipes
-[16:39:46] [ServerMain/INFO]: Loaded 1399 advancements
-[16:39:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:39:48] [Server thread/INFO]: Loading properties
-[16:39:48] [Server thread/INFO]: Default game type: SURVIVAL
-[16:39:48] [Server thread/INFO]: Generating keypair
-[16:39:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:39:49] [Server thread/INFO]: Using epoll channel type
-[16:39:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:39:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:39:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:39:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:39:49] [Server thread/INFO]: Preparing level "world"
-[16:39:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:40:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:40:01] [Server thread/INFO]: Time elapsed: 2049 ms
-[16:40:01] [Server thread/INFO]: Done (11.729s)! For help, type "help"
-[16:40:24] [Server thread/INFO]: Maycol_27x[/127.137.81.102:58137] logged in with entity id 18 at (379.8178168746117, 66.0, 188.65366821960598)
-[16:40:24] [Server thread/INFO]: Maycol_27x joined the game
-[16:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
-[16:40:49] [Server thread/INFO]: Villager cmk['Villager'/241, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[16:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12486ms or 249 ticks behind
-[16:40:54] [Server thread/INFO]: Maycol_27x lost connection: Timed out
-[16:40:54] [Server thread/INFO]: Maycol_27x left the game
-[16:40:55] [Server thread/WARN]: handleDisconnection() called twice
-[16:41:05] [Server thread/INFO]: nael_binbolo[/127.171.65.9:44757] logged in with entity id 679 at (116.82137617590472, -25.0, 380.69999998807907)
-[16:41:05] [Server thread/INFO]: nael_binbolo joined the game
-[16:41:26] [Server thread/INFO]: Maycol_27x[/127.137.81.102:45211] logged in with entity id 1324 at (379.8178168746117, 66.0, 188.65366821960598)
-[16:41:26] [Server thread/INFO]: Maycol_27x joined the game
-[16:41:38] [Server thread/INFO]: Villager cmk['Villager'/1474, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[16:42:43] [Server thread/INFO]: vGodbridger[/127.194.163.136:53309] logged in with entity id 2269 at (121.70311625812491, 36.0, 281.47150613333804)
-[16:42:43] [Server thread/INFO]: vGodbridger joined the game
-[16:42:46] [Server thread/WARN]: Maycol_27x was kicked for floating too long!
-[16:42:46] [Server thread/INFO]: Maycol_27x lost connection: Flying is not enabled on this server
-[16:42:46] [Server thread/INFO]: Maycol_27x left the game
-[16:43:00] [Server thread/INFO]: Maycol_27x[/127.137.81.102:56263] logged in with entity id 2378 at (348.932608293423, 66.7531999805212, 172.15897435770475)
-[16:43:00] [Server thread/INFO]: Maycol_27x joined the game
-[16:44:39] [Server thread/INFO]: Villager cmk['Cartographer'/2550, l='ServerLevel[world]', x=416.07, y=25.06, z=156.50] died, message: 'Cartographer tried to swim in lava'
-[16:50:31] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
-[16:50:31] [Server thread/INFO]: nael_binbolo left the game
-[16:50:54] [Server thread/INFO]: nael_binbolo[/127.171.65.9:46285] logged in with entity id 5592 at (181.69999998807907, 35.0, 328.69999998807907)
-[16:50:54] [Server thread/INFO]: nael_binbolo joined the game
-[16:52:37] [Server thread/WARN]: Maycol_27x moved too quickly! -15.557351817161418,4.3111364569408295,8.257061923705521
-[16:53:38] [Server thread/WARN]: Maycol_27x moved too quickly! -16.46855139136693,-2.9998990133755257,6.6576838281379125
-[16:57:45] [Server thread/WARN]: Maycol_27x moved too quickly! -17.64712785983977,-2.0297147024116384,0.8895591198459556
-[17:02:35] [Server thread/WARN]: Maycol_27x moved too quickly! -15.141895928917137,-3.827555726183107,-8.605923254046957
-[17:03:02] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
-[17:03:02] [Server thread/INFO]: nael_binbolo left the game
-[17:03:14] [Server thread/WARN]: Maycol_27x moved too quickly! -0.2265167931230394,-5.536221628141121,-16.66496891197329
-[17:03:16] [Server thread/WARN]: Maycol_27x moved too quickly! -6.74473197207675,-3.7920292146190064,-17.049844687453174
-[17:03:17] [Server thread/WARN]: Maycol_27x moved too quickly! -11.724232537912656,-1.7718203431913935,-13.630966015930369
-[17:03:23] [Server thread/WARN]: Maycol_27x moved too quickly! -7.805495517999873,6.541952318664627,-15.005459367006665
-[17:03:36] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[17:03:36] [Server thread/INFO]: Maycol_27x left the game
-[17:03:46] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37483] logged in with entity id 15484 at (-272.1607486832556, 63.0, 227.4327317351427)
-[17:03:46] [Server thread/INFO]: Maycol_27x joined the game
-[17:22:26] [Server thread/INFO]: nael_binbolo[/127.171.65.9:46159] logged in with entity id 21178 at (-255.95309572637476, 85.0, 402.61342880131485)
-[17:22:26] [Server thread/INFO]: nael_binbolo joined the game
-[17:27:28] [Server thread/INFO]: [Not Secure] <nael_binbolo> -537 41
-[17:27:57] [Server thread/INFO]: [Not Secure] <vGodbridger> -483 -29 76
-[17:40:55] [Server thread/WARN]: vGodbridger moved too quickly! -9.884759607581827,1.7531999805212024,2.3220348004074864
-[17:41:20] [Server thread/WARN]: Maycol_27x moved too quickly! 15.053119622562065,-3.121489062263123,8.408944242159023
-[17:41:28] [Server thread/WARN]: vGodbridger moved too quickly! -0.11249658941380858,-11.2134039128713,1.757553952751337
-[17:41:31] [Server thread/WARN]: Maycol_27x moved too quickly! 14.585121501183806,5.630477272046079,8.682471771953885
-[17:41:36] [Server thread/WARN]: Maycol_27x moved too quickly! -6.31933848209286,6.348570867739767,15.002287071878783
-[17:41:45] [Server thread/WARN]: Maycol_27x moved too quickly! 16.608431229330876,0.29514163807833427,6.018789514482947
-[17:41:51] [Server thread/WARN]: Maycol_27x moved too quickly! 17.169040864812246,-2.693217008280797,0.8559331351082449
-[17:41:53] [Server thread/WARN]: vGodbridger moved too quickly! 9.416265022640744,3.835226718173928,-0.9538644608059599
-[17:42:51] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[17:42:51] [Server thread/INFO]: Maycol_27x left the game
-[17:42:58] [Server thread/INFO]: Maycol_27x[/127.137.81.102:47499] logged in with entity id 29327 at (387.5914911596924, 67.0, 162.7779445398599)
-[17:42:58] [Server thread/INFO]: Maycol_27x joined the game
-[17:44:55] [Server thread/INFO]: [Not Secure] <nael_binbolo> pipipi
-[17:45:49] [Server thread/INFO]: Maycol_27x has made the advancement [Voluntary Exile]
-[17:46:20] [Server thread/INFO]: vGodbridger has made the advancement [Voluntary Exile]
-[17:47:14] [Server thread/INFO]: Maycol_27x has completed the challenge [Hero of the Village]
-[17:47:14] [Server thread/INFO]: vGodbridger has completed the challenge [Hero of the Village]
-[17:47:14] [Server thread/INFO]: nael_binbolo has completed the challenge [Hero of the Village]
-[17:48:06] [Server thread/INFO]: [Not Secure] <nael_binbolo> ponga el endechest maycol
-[17:49:22] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
-[17:49:22] [Server thread/INFO]: nael_binbolo left the game
-[17:49:31] [Server thread/INFO]: nael_binbolo[/127.171.65.9:54167] logged in with entity id 31947 at (428.8483345794795, 69.0, 187.71188840873012)
-[17:49:32] [Server thread/INFO]: nael_binbolo joined the game
-[17:50:39] [Server thread/INFO]: nael_binbolo has made the advancement [Voluntary Exile]
-[17:54:19] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[17:54:19] [Server thread/INFO]: vGodbridger left the game
-[17:56:47] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[17:56:47] [Server thread/INFO]: nael_binbolo left the game
-[18:02:49] [Server thread/INFO]: vGodbridger[/127.194.163.136:49393] logged in with entity id 35871 at (379.39940528685963, 66.0, 250.69999998807907)
-[18:02:49] [Server thread/INFO]: vGodbridger joined the game
-[18:03:45] [Server thread/INFO]: Jmat_2[/127.31.58.135:53125] logged in with entity id 36731 at (122.44709535831039, -16.0, 334.30000001192093)
-[18:03:45] [Server thread/INFO]: Jmat_2 joined the game
-[18:04:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=56, z=282} jd{x=102, y=58, z=282}
-[18:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[18:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
-[18:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3744ms or 74 ticks behind
-[18:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[18:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:08:05] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
-[18:10:00] [Server thread/INFO]: Villager cmk['Villager'/29348, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[18:12:03] [Server thread/WARN]: Maycol_27x moved too quickly! -1.332784740713464,-16.962570314209245,6.6266621060384665
-[18:13:34] [Server thread/WARN]: Maycol_27x moved too quickly! -9.269393445468381,3.5545966747760644,14.737812391411055
-[18:13:36] [Server thread/WARN]: Maycol_27x moved too quickly! -6.402022883327902,2.8099260253627847,16.137685818875596
-[18:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
-[18:14:44] [Server thread/INFO]: [Not Secure] <Jmat_2> ./difficulty hard
-[18:15:35] [Server thread/WARN]: Jmat_2 moved too quickly! 18.337147026133493,-5.034956210800843,-1.0458334036418364
-[18:15:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=462, y=67, z=343} jd{x=463, y=66, z=342}
-[18:15:43] [Server thread/INFO]: Villager cmk['Villager'/29349, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:18:11] [Server thread/WARN]: Jmat_2 moved wrongly!
-[18:20:29] [Server thread/WARN]: Maycol_27x moved too quickly! 0.7948446528206645,-1.4019320078475914,10.529123191801432
-[18:25:50] [Server thread/WARN]: Maycol_27x moved too quickly! 7.354115815159105,3.219088995084917,6.294214693263484
-[18:30:06] [Server thread/INFO]: Villager cmk['Villager'/29355, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:30:29] [Server thread/INFO]: vGodbridger has reached the goal [Sky's the Limit]
-[18:38:44] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[18:38:44] [Server thread/INFO]: vGodbridger left the game
-[18:38:53] [Server thread/INFO]: vGodbridger[/127.194.163.136:58449] logged in with entity id 69620 at (486.4917642802796, 189.0, -15.53647669202917)
-[18:38:53] [Server thread/INFO]: vGodbridger joined the game
-[18:40:52] [Server thread/INFO]: Jmat_2 has made the advancement [Spooky Scary Skeleton]
-[18:41:05] [Server thread/INFO]: Jmat_2 has made the advancement [Withering Heights]
-[18:41:05] [Server thread/INFO]: Maycol_27x has made the advancement [Withering Heights]
-[18:41:30] [Server thread/INFO]: Maycol_27x has made the advancement [Take Aim]
-[18:41:48] [Server thread/INFO]: Jmat_2 was shot by a skull from Wither
-[18:42:22] [Server thread/INFO]: Jmat_2 withered away
-[18:43:34] [Server thread/INFO]: Villager cmk['Villager'/29364, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:48:16] [Server thread/INFO]: [Not Secure] <vGodbridger> sii tu quiere te presto las mias
-[18:48:57] [Server thread/INFO]: Villager cmk['Villager'/29368, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:49:50] [Server thread/INFO]: [Not Secure] <vGodbridger> TU ME VE CARA DE ALDEANO
-[18:50:41] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[18:50:41] [Server thread/INFO]: Jmat_2 left the game
-[18:52:20] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[18:52:20] [Server thread/INFO]: vGodbridger left the game
-[18:52:27] [Server thread/INFO]: Jmat_2[/127.31.58.135:40805] logged in with entity id 83230 at (392.24707237118906, 67.0, 179.68555591301737)
-[18:52:27] [Server thread/INFO]: Jmat_2 joined the game
-[18:53:08] [Server thread/INFO]: vGodbridger[/127.194.163.136:55195] logged in with entity id 84348 at (279.30000001192093, -56.0, 190.30708030015714)
-[18:53:08] [Server thread/INFO]: vGodbridger joined the game
-[18:54:53] [Server thread/INFO]: Villager cmk['Villager'/29367, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:55:44] [Server thread/INFO]: Villager cmk['Villager'/29366, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[18:59:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=267, y=96, z=201} jd{x=265, y=95, z=201}
-[18:59:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=267, y=96, z=201} jd{x=265, y=95, z=201}
-[19:01:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=264, y=99, z=208} jd{x=263, y=96, z=209}
-[19:01:50] [Server thread/INFO]: Villager cmk['Villager'/29365, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:01:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=262, y=95, z=196} jd{x=266, y=95, z=198}
-[19:02:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=262, y=101, z=203} jd{x=262, y=97, z=206}
-[19:03:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=261, y=102, z=203} jd{x=261, y=98, z=201}
-[19:03:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=261, y=102, z=202} jd{x=261, y=98, z=201}
-[19:03:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=261, y=98, z=214} jd{x=261, y=97, z=212}
-[19:03:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=278, y=94, z=227} jd{x=278, y=93, z=226}
-[19:04:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=280, y=94, z=230} jd{x=277, y=95, z=224}
-[19:04:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=280, y=94, z=230} jd{x=272, y=95, z=214}
-[19:05:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=280, y=94, z=230} jd{x=267, y=95, z=197}
-[19:08:52] [Server thread/INFO]: Maycol_27x lost connection: Timed out
-[19:08:52] [Server thread/INFO]: Maycol_27x left the game
-[19:09:21] [Server thread/INFO]: Maycol_27x[/127.137.81.102:46395] logged in with entity id 111201 at (417.69999998807907, 68.0, 197.68893728995116)
-[19:09:21] [Server thread/INFO]: Maycol_27x joined the game
-[19:09:27] [Server thread/INFO]: Villager cmk['Villager'/29363, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:11:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=96, z=201} jd{x=279, y=95, z=245}
-[19:11:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=96, z=201} jd{x=282, y=94, z=232}
-[19:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=100, z=209} jd{x=260, y=97, z=210}
-[19:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=100, z=209} jd{x=260, y=97, z=210}
-[19:11:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=260, y=98, z=207} jd{x=260, y=97, z=210}
-[19:12:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=97, z=211} jd{x=259, y=97, z=209}
-[19:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=100, z=217} jd{x=259, y=96, z=216}
-[19:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=259, y=100, z=217} jd{x=259, y=96, z=216}
-[19:14:57] [Server thread/INFO]: Villager cmk['Villager'/29369, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:18:30] [Server thread/INFO]: Villager cmk['Villager'/56528, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:18:37] [Server thread/INFO]: Villager cmk['Villager'/48739, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:19:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=276, y=95, z=207} jd{x=279, y=92, z=212}
-[19:21:48] [Server thread/INFO]: Villager cmk['Villager'/60917, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:22:17] [Server thread/INFO]: Villager cmk['Villager'/85146, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:24:17] [Server thread/INFO]: nael_binbolo[/127.171.65.9:36433] logged in with entity id 134425 at (375.2156460201181, 66.0, 176.1706662345178)
-[19:24:17] [Server thread/INFO]: nael_binbolo joined the game
-[19:24:22] [Server thread/INFO]: Villager cmk['Villager'/80066, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:25:36] [Server thread/INFO]: [Not Secure] <nael_binbolo> si
-[19:27:49] [Server thread/INFO]: nael_binbolo has made the advancement [Into Fire]
-[19:27:57] [Server thread/INFO]: nael_binbolo has made the advancement [Ice Bucket Challenge]
-[19:29:04] [Server thread/INFO]: Villager cmk['Villager'/95624, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:37:05] [Server thread/INFO]: Jmat_2 has reached the goal [Beaconator]
-[19:37:05] [Server thread/INFO]: Jmat_2 has made the advancement [Bring Home the Beacon]
-[19:37:05] [Server thread/INFO]: nael_binbolo has reached the goal [Beaconator]
-[19:37:05] [Server thread/INFO]: nael_binbolo has made the advancement [Bring Home the Beacon]
-[19:37:05] [Server thread/INFO]: Maycol_27x has reached the goal [Beaconator]
-[19:37:05] [Server thread/INFO]: Maycol_27x has made the advancement [Bring Home the Beacon]
-[19:38:01] [Server thread/INFO]: [Not Secure] <nael_binbolo> gay
-[19:38:09] [Server thread/INFO]: nael_binbolo has reached the goal [Sky's the Limit]
-[19:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=435, y=63, z=108} jd{x=433, y=62, z=109}
-[19:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=434, y=62, z=103} jd{x=433, y=62, z=109}
-[19:38:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=430, y=62, z=110} jd{x=430, y=61, z=111}
-[19:39:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=429, y=62, z=100} jd{x=429, y=62, z=101}
-[19:39:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=429, y=62, z=100} jd{x=429, y=62, z=101}
-[19:39:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=429, y=62, z=100} jd{x=429, y=62, z=101}
-[19:39:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=429, y=62, z=100} jd{x=429, y=62, z=101}
-[19:39:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=429, y=62, z=100} jd{x=429, y=62, z=101}
-[19:39:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=429, y=62, z=100} jd{x=429, y=62, z=101}
-[19:39:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=430, y=63, z=100} jd{x=430, y=61, z=101}
-[19:39:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=430, y=63, z=100} jd{x=430, y=61, z=101}
-[19:39:22] [Server thread/INFO]: Villager cmk['Villager'/74711, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:39:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=446, y=64, z=120} jd{x=447, y=65, z=118}
-[19:39:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=66, z=125} jd{x=445, y=64, z=126}
-[19:39:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=66, z=125} jd{x=445, y=64, z=126}
-[19:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=66, z=125} jd{x=445, y=64, z=126}
-[19:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=66, z=125} jd{x=445, y=64, z=126}
-[19:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=66, z=125} jd{x=445, y=64, z=126}
-[19:39:57] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[19:39:57] [Server thread/INFO]: vGodbridger left the game
-[19:40:08] [Server thread/INFO]: vGodbridger[/127.194.163.136:38609] logged in with entity id 152769 at (445.3328390554458, 65.0, 126.84335761568079)
-[19:40:08] [Server thread/INFO]: vGodbridger joined the game
-[19:40:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=446, y=66, z=128} jd{x=447, y=65, z=128}
-[19:42:36] [Server thread/WARN]: Maycol_27x moved too quickly! -15.524771574038141,-2.0087379579050832,-8.054924946439769
-[19:42:41] [Server thread/INFO]: Villager cmk['Villager'/109005, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:42:47] [Server thread/WARN]: Maycol_27x moved too quickly! -17.922970441100006,-1.5190751648422065,-0.007393358398530836
-[19:43:51] [Server thread/INFO]: Villager cmk['Villager'/85550, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:44:11] [Server thread/INFO]: nael_binbolo has made the advancement [We Need to Go Deeper]
-[19:44:57] [Server thread/INFO]: nael_binbolo has made the advancement [Eye Spy]
-[19:45:06] [Server thread/INFO]: nael_binbolo has made the advancement [The End?]
-[19:46:39] [Server thread/INFO]: Villager cmk['Villager'/129377, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:48:40] [Server thread/INFO]: Villager cmk['Villager'/126249, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[19:55:20] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[19:55:20] [Server thread/INFO]: nael_binbolo left the game
-[19:56:09] [Server thread/INFO]: vGodbridger has reached the goal [Beaconator]
-[19:56:09] [Server thread/INFO]: vGodbridger has made the advancement [Bring Home the Beacon]
-[20:01:16] [Server thread/WARN]: Maycol_27x moved too quickly! 1.6683290135651987,-0.9601211666088432,18.38797679604977
-[20:02:05] [Server thread/INFO]: Villager cmk['Villager'/132096, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[20:02:41] [Server thread/INFO]: nael_binbolo[/127.171.65.9:47163] logged in with entity id 190943 at (491.29287259939383, 63.875, -16.292622245162818)
-[20:02:41] [Server thread/INFO]: nael_binbolo joined the game
-[20:04:23] [Server thread/INFO]: Villager cmk['Villager'/120242, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[20:06:12] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[20:06:12] [Server thread/INFO]: nael_binbolo left the game
-[20:06:20] [Server thread/INFO]: nael_binbolo[/127.171.65.9:35467] logged in with entity id 198835 at (369.1362468563698, 66.0, 182.93728734107927)
-[20:06:20] [Server thread/INFO]: nael_binbolo joined the game
-[20:07:20] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[20:07:20] [Server thread/INFO]: nael_binbolo left the game
-[20:07:27] [Server thread/INFO]: nael_binbolo[/127.171.65.9:38369] logged in with entity id 201061 at (446.1353525072981, 64.0, 102.9150595150221)
-[20:07:27] [Server thread/INFO]: nael_binbolo joined the game
-[20:07:33] [Server thread/INFO]: Villager cmk['Villager'/126015, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[20:08:35] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
-[20:08:35] [Server thread/INFO]: nael_binbolo left the game
-[20:10:04] [Server thread/INFO]: Jmat_2 has made the advancement [Voluntary Exile]
-[20:10:56] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[20:10:56] [Server thread/INFO]: vGodbridger left the game
-[20:10:56] [Server thread/WARN]: handleDisconnection() called twice
-[20:11:25] [Server thread/INFO]: vGodbridger[/127.194.163.136:40389] logged in with entity id 204608 at (390.21480857162476, 68.79673560066871, 198.3810082578102)
-[20:11:25] [Server thread/INFO]: vGodbridger joined the game
-[20:12:10] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[20:12:10] [Server thread/INFO]: vGodbridger left the game
-[20:12:10] [Server thread/WARN]: handleDisconnection() called twice
-[20:12:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:39749] logged in with entity id 205604 at (426.823616884021, 68.0, 202.31156240785333)
-[20:12:34] [Server thread/INFO]: vGodbridger joined the game
-[20:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[20:15:30] [Server thread/INFO]: vGodbridger has reached the goal [Postmortal]
-[20:18:02] [Server thread/INFO]: Jmat_2 was slain by Vex
-[20:18:18] [Server thread/INFO]: Jmat_2 was slain by Vex
-[20:18:24] [Server thread/INFO]: Villager cmk['Villager'/149422, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[20:18:36] [Server thread/INFO]: Jmat_2 was slain by Vex
-[20:18:57] [Server thread/INFO]: Jmat_2 was slain by Vex
-[20:19:41] [Server thread/INFO]: Jmat_2 was slain by Vex
-[20:21:28] [Server thread/INFO]: Jmat_2 was slain by Vex
-[20:23:27] [Server thread/INFO]: Jmat_2 has completed the challenge [Hero of the Village]
-[20:25:20] [Server thread/INFO]: Villager cmk['Villager'/181127, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[20:25:33] [Server thread/INFO]: Villager cmk['Villager'/166731, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[20:26:48] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[20:26:48] [Server thread/INFO]: Maycol_27x left the game
-[20:28:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=252, y=96, z=173} jd{x=251, y=95, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:28:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=98, z=173} jd{x=251, y=98, z=172}
-[20:29:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=251, y=95, z=165} jd{x=252, y=94, z=167}
-[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
-[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
-[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
-[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
-[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
-[20:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=98, z=201} jd{x=247, y=97, z=202}
-[20:34:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=247, y=101, z=220} jd{x=247, y=98, z=219}
-[20:34:55] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[20:34:55] [Server thread/INFO]: vGodbridger left the game
-[20:46:57] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[20:46:57] [Server thread/INFO]: Jmat_2 left the game
+[00:22:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:22:20] [ServerMain/INFO]: Loaded 1290 recipes
+[00:22:21] [ServerMain/INFO]: Loaded 1399 advancements
+[00:22:22] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:22:22] [Server thread/INFO]: Loading properties
+[00:22:22] [Server thread/INFO]: Default game type: SURVIVAL
+[00:22:22] [Server thread/INFO]: Generating keypair
+[00:22:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:22:22] [Server thread/INFO]: Using epoll channel type
+[00:22:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:22:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:22:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:22:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:22:22] [Server thread/INFO]: Preparing level "world"
+[00:22:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:22:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:22:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:22:31] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[00:22:31] [Server thread/INFO]: Time elapsed: 1338 ms
+[00:22:32] [Server thread/INFO]: Done (9.049s)! For help, type "help"
+[00:22:44] [Server thread/INFO]: Jmat_2[/127.31.58.135:54793] logged in with entity id 17 at (14.563334742374574, 1.0, 244.47434848553362)
+[00:22:44] [Server thread/INFO]: Jmat_2 joined the game
+[00:23:01] [Server thread/INFO]: vGodbridger[/127.194.163.136:37091] logged in with entity id 399 at (7.899862438048083, 3.533456093820601, 142.7260713734208)
+[00:23:01] [Server thread/INFO]: vGodbridger joined the game
+[00:23:45] [Server thread/INFO]: OROCHIMARU[/127.155.219.29:46277] logged in with entity id 777 at (379.0871942572308, 66.0, 189.90526898267595)
+[00:23:45] [Server thread/INFO]: OROCHIMARU joined the game
+[00:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:25:25] [Server thread/INFO]: Maycol_27x[/127.24.127.46:55487] logged in with entity id 6399 at (373.2335956743026, 66.0, 183.23477296070564)
+[00:25:25] [Server thread/INFO]: Maycol_27x joined the game
+[00:25:29] [Server thread/INFO]: [Not Secure] <OROCHIMARU> no
+[00:25:55] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[00:25:55] [Server thread/INFO]: Maycol_27x left the game
+[00:25:55] [Server thread/WARN]: handleDisconnection() called twice
+[00:26:16] [Server thread/INFO]: Maycol_27x[/127.24.127.46:36185] logged in with entity id 8460 at (373.2335956743026, 66.0, 183.23477296070564)
+[00:26:16] [Server thread/INFO]: Maycol_27x joined the game
+[00:27:19] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[00:27:19] [Server thread/INFO]: Maycol_27x left the game
+[00:27:27] [Server thread/INFO]: Maycol_27x[/127.24.127.46:37709] logged in with entity id 10849 at (373.2335956743026, 66.0, 183.23477296070564)
+[00:27:27] [Server thread/INFO]: Maycol_27x joined the game
+[00:27:46] [Server thread/INFO]: OROCHIMARU lost connection: Timed out
+[00:27:46] [Server thread/INFO]: OROCHIMARU left the game
+[00:27:56] [Server thread/INFO]: OROCHIMARU[/127.155.219.29:52911] logged in with entity id 11615 at (408.474221196803, 68.0, 163.29349804103077)
+[00:27:56] [Server thread/INFO]: OROCHIMARU joined the game
+[00:27:57] [Server thread/INFO]: Villager cmk['Villager'/1014, l='ServerLevel[world]', x=411.62, y=25.50, z=154.26] died, message: 'Villager was squished too much'
+[00:28:00] [Server thread/INFO]: Villager cmk['Villager'/1012, l='ServerLevel[world]', x=411.65, y=25.50, z=154.28] died, message: 'Villager was squished too much'
+[00:28:17] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
+[00:28:24] [Server thread/INFO]: Villager cmk['Villager'/1013, l='ServerLevel[world]', x=411.73, y=25.50, z=154.29] died, message: 'Villager was squished too much'
+[00:28:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=90, z=241} jd{x=245, y=95, z=239}
+[00:29:41] [Server thread/WARN]: Maycol_27x moved too quickly! -10.656207372497192,3.288432035751157,2.931360733839057
+[00:29:50] [Server thread/WARN]: Maycol_27x moved too quickly! -14.903902088235839,8.85677213014128,3.3350272922380384
+[00:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=100, z=196} jd{x=244, y=102, z=194}
+[00:30:51] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[00:30:51] [Server thread/INFO]: OROCHIMARU left the game
+[00:30:56] [Server thread/INFO]: OROCHIMARU[/127.155.219.29:40549] logged in with entity id 16015 at (415.2899124995035, 68.0, 170.14378763536303)
+[00:30:56] [Server thread/INFO]: OROCHIMARU joined the game
+[00:30:58] [Server thread/WARN]: Maycol_27x moved too quickly! -0.033143990334338014,-11.026982712340207,0.0
+[00:31:01] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,-10.867409983895083,0.0
+[00:31:06] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[00:31:06] [Server thread/INFO]: Maycol_27x left the game
+[00:31:12] [Server thread/INFO]: Maycol_27x[/127.24.127.46:47591] logged in with entity id 16527 at (360.30000001192093, -55.0, 193.69999998807907)
+[00:31:12] [Server thread/INFO]: Maycol_27x joined the game
