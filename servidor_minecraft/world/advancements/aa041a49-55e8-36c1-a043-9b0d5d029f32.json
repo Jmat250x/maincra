@@ -761,6 +761,7 @@
       "minecraft:witch": "2025-02-09 18:56:22 +0000",
       "minecraft:wither_skeleton": "2025-02-11 01:33:37 +0000",
       "minecraft:husk": "2025-02-15 03:38:08 +0000",
+      "minecraft:ender_dragon": "2025-02-18 01:53:25 +0000",
       "minecraft:shulker": "2025-02-13 01:55:22 +0000",
       "minecraft:piglin": "2025-02-09 18:19:49 +0000",
       "minecraft:enderman": "2025-02-11 00:36:42 +0000",
@@ -4122,6 +4123,36 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-15 20:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-18 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-18 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-02-18 01:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-18 01:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-18 01:48:14 +0000"
     },
     "done": true
   },
