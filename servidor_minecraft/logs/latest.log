@@ -24,3 +24,8 @@
 [20:18:44] [Server thread/INFO]: vGodbridger[/127.194.163.136:33255] logged in with entity id 17 at (273.1854546075395, 95.0, 221.75234328049243)
 [20:18:44] [Server thread/INFO]: vGodbridger joined the game
 [20:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[20:43:01] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[20:43:01] [Server thread/INFO]: vGodbridger left the game
+[20:43:01] [Server thread/WARN]: handleDisconnection() called twice
+[20:43:17] [Server thread/INFO]: vGodbridger[/127.194.163.136:36845] logged in with entity id 9754 at (254.88096957323674, 102.0, 219.36259988208167)
+[20:43:17] [Server thread/INFO]: vGodbridger joined the game
