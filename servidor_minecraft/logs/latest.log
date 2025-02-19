@@ -21,3 +21,6 @@
 [20:00:54] [Worker-Main-1/INFO]: Preparing spawn area: 85%
 [20:00:54] [Server thread/INFO]: Time elapsed: 2632 ms
 [20:00:54] [Server thread/INFO]: Done (9.390s)! For help, type "help"
+[20:18:44] [Server thread/INFO]: vGodbridger[/127.194.163.136:33255] logged in with entity id 17 at (273.1854546075395, 95.0, 221.75234328049243)
+[20:18:44] [Server thread/INFO]: vGodbridger joined the game
+[20:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
