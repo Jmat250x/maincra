@@ -1,110 +1,23 @@
-[01:10:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:10:46] [ServerMain/INFO]: Loaded 1290 recipes
-[01:10:46] [ServerMain/INFO]: Loaded 1399 advancements
-[01:10:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:10:47] [Server thread/INFO]: Loading properties
-[01:10:47] [Server thread/INFO]: Default game type: SURVIVAL
-[01:10:47] [Server thread/INFO]: Generating keypair
-[01:10:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:10:48] [Server thread/INFO]: Using epoll channel type
-[01:10:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:10:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:10:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:10:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:10:48] [Server thread/INFO]: Preparing level "world"
-[01:10:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:11:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:11:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:11:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:11:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:11:01] [Server thread/INFO]: Time elapsed: 1895 ms
-[01:11:01] [Server thread/INFO]: Done (12.872s)! For help, type "help"
-[01:11:16] [Server thread/INFO]: Jmat_2[/127.31.58.135:32843] logged in with entity id 16 at (383.5, 66.5625, 191.5)
-[01:11:16] [Server thread/INFO]: Jmat_2 joined the game
-[01:11:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[01:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11556ms or 231 ticks behind
-[01:13:29] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
-[01:15:11] [Server thread/INFO]: Maycol_27x[/127.24.127.46:56187] logged in with entity id 2865 at (1624.9006623963166, 73.0, 1947.9986917778074)
-[01:15:11] [Server thread/INFO]: Maycol_27x joined the game
-[01:16:12] [Server thread/INFO]: vGodbridger[/127.194.163.136:39541] logged in with entity id 4177 at (419.92628652034404, 67.7390499965203, 205.7070939938583)
-[01:16:12] [Server thread/INFO]: vGodbridger joined the game
-[01:17:12] [Server thread/WARN]: Maycol_27x moved too quickly! 5.738726782906269,0.2712241076924897,-8.251997693832891
-[01:17:17] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[01:17:17] [Server thread/INFO]: Maycol_27x left the game
-[01:20:44] [Server thread/INFO]: [Not Secure] <Jmat_2> bro
-[01:20:47] [Server thread/INFO]: [Not Secure] <vGodbridger> Q
-[01:20:48] [Server thread/INFO]: [Not Secure] <Jmat_2> q hace?
-[01:20:53] [Server thread/INFO]: [Not Secure] <vGodbridger> MI CASA
-[01:20:59] [Server thread/INFO]: [Not Secure] <Jmat_2> estas en la llamada?
-[01:21:03] [Server thread/INFO]: [Not Secure] <vGodbridger> zi
-[01:21:08] [Server thread/INFO]: [Not Secure] <vGodbridger> zi
-[01:21:49] [Server thread/WARN]: Jmat_2 moved too quickly! -5.4206872087287366,7.028218725366699,15.820973815102462
-[01:22:21] [Server thread/INFO]: [Not Secure] <vGodbridger> PA ONDE
-[01:22:30] [Server thread/INFO]: [Not Secure] <vGodbridger> en un rato entonces
-[01:22:57] [Server thread/WARN]: vGodbridger moved too quickly! 3.789736254038381,0.16534780801282523,9.929653758891675
-[01:23:25] [Server thread/INFO]: [Not Secure] <vGodbridger> no me carga
-[01:23:30] [Server thread/WARN]: vGodbridger moved too quickly! 0.5032730882313814,0.0,10.138469643081692
-[01:23:54] [Server thread/INFO]: [Not Secure] <vGodbridger> eldiablo
-[01:24:05] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 1465
-[01:24:06] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 1465t
-[01:24:07] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 1465t
-[01:24:09] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 1465
-[01:24:42] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 1465
-[01:25:05] [Server thread/INFO]: [Not Secure] <vGodbridger> YA
-[01:25:12] [Server thread/INFO]: [Not Secure] <Jmat_2> -30
-[01:26:28] [Server thread/INFO]: [Not Secure] <vGodbridger> -30
-[01:26:53] [Server thread/INFO]: [Not Secure] <vGodbridger> yo naje
-[01:26:55] [Server thread/INFO]: [Not Secure] <vGodbridger> baje
-[01:28:10] [Server thread/INFO]: [Not Secure] <Jmat_2> te espero en el end
-[01:28:15] [Server thread/INFO]: [Not Secure] <vGodbridger> menol
-[01:28:19] [Server thread/INFO]: [Not Secure] <Jmat_2> q
-[01:28:21] [Server thread/INFO]: [Not Secure] <vGodbridger> pero yo estoy en el mar
-[01:28:28] [Server thread/INFO]: [Not Secure] <Jmat_2> pero yo subi
-[01:28:46] [Server thread/INFO]: [Not Secure] <vGodbridger> YN PILAR
-[01:28:50] [Server thread/INFO]: [Not Secure] <vGodbridger> ENCONTRE
-[01:29:14] [Server thread/INFO]: [Not Secure] <vGodbridger> ENCONTRE UN PILAR Y UN HOYO
-[01:29:17] [Server thread/WARN]: Jmat_2 moved too quickly! -3.0853236211521757,-8.946121954975382,14.871721722171287
-[01:29:28] [Server thread/INFO]: [Not Secure] <vGodbridger> PERO ESO ERA LO QUE YO ESTABA HACIENDO
-[01:29:31] [Server thread/WARN]: vGodbridger moved too quickly! 1.2096224295273146,-9.770643484351368,-1.844836268812287
-[01:30:48] [Server thread/INFO]: [Not Secure] <vGodbridger> en el hoyo no hay na loco
-[01:30:52] [Server thread/WARN]: vGodbridger moved too quickly! 0.0,17.415998631132133,0.18172177368933262
-[01:30:58] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 -30 1465
-[01:31:28] [Server thread/INFO]: vGodbridger lost connection: Timed out
-[01:31:28] [Server thread/INFO]: vGodbridger left the game
-[01:31:28] [Server thread/WARN]: handleDisconnection() called twice
-[01:31:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:43621] logged in with entity id 13321 at (462.5429460738706, -29.975575911786322, 1414.3871960719218)
-[01:31:34] [Server thread/INFO]: vGodbridger joined the game
-[01:32:05] [Server thread/INFO]: [Not Secure] <vGodbridger> mejor me voy pa mi casa
-[01:32:18] [Server thread/WARN]: Jmat_2 moved too quickly! -8.393546622058556,-5.132718173101111,15.995106431380037
-[01:32:42] [Server thread/INFO]: [Not Secure] <vGodbridger> NO
-[01:33:18] [Server thread/INFO]: Jmat_2 lost connection: Timed out
-[01:33:18] [Server thread/INFO]: Jmat_2 left the game
-[01:33:18] [Server thread/WARN]: handleDisconnection() called twice
-[01:33:25] [Server thread/INFO]: Jmat_2[/127.31.58.135:54145] logged in with entity id 14091 at (9.492560580700307, 1.0, 252.69999998807907)
-[01:33:25] [Server thread/INFO]: Jmat_2 joined the game
-[01:34:26] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[01:34:26] [Server thread/INFO]: Jmat_2 left the game
-[01:34:38] [Server thread/INFO]: Jmat_2[/127.31.58.135:51523] logged in with entity id 15019 at (12.342635019112745, 1.0, 244.99566474886117)
-[01:34:38] [Server thread/INFO]: Jmat_2 joined the game
-[01:36:15] [Server thread/WARN]: vGodbridger moved too quickly! 0.017242067703710617,-10.521790915233879,-0.6032823721304936
-[01:36:27] [Server thread/WARN]: vGodbridger moved too quickly! 0.011857025636131446,0.7502907233430551,18.23558377968652
-[01:36:49] [Server thread/INFO]: [Not Secure] <vGodbridger> 35
-[01:36:52] [Server thread/INFO]: [Not Secure] <vGodbridger> Y SON PESAO
-[01:38:38] [Server thread/INFO]: [Not Secure] <vGodbridger> yo tengo el logro
-[01:39:13] [Server thread/INFO]: vGodbridger has reached the goal [The End... Again...]
-[01:39:26] [Server thread/INFO]: [Not Secure] <vGodbridger> no comida
-[01:39:38] [Server thread/INFO]: [Not Secure] <vGodbridger> DAME COMIDA
-[01:40:18] [Server thread/WARN]: Jmat_2 moved too quickly! -12.2764916741217,-5.37775903062888,11.215701389102033
-[01:40:18] [Server thread/INFO]: [Not Secure] <vGodbridger> JOSE
-[01:40:25] [Server thread/INFO]: [Not Secure] <vGodbridger> comida
-[01:40:39] [Server thread/INFO]: [Not Secure] <vGodbridger> MENOL
-[01:40:56] [Server thread/INFO]: [Not Secure] <vGodbridger> COMIDA
-[01:40:56] [Server thread/WARN]: vGodbridger moved too quickly! -0.06377779963830577,5.5359466838041556,-11.416564977882109
-[01:41:00] [Server thread/WARN]: vGodbridger was kicked for floating too long!
-[01:41:00] [Server thread/INFO]: vGodbridger lost connection: Flying is not enabled on this server
-[01:41:00] [Server thread/INFO]: vGodbridger left the game
-[01:41:35] [Server thread/INFO]: vGodbridger[/127.194.163.136:57059] logged in with entity id 20555 at (17.30164164803412, 69.34946498373866, 10.633617762425203)
-[01:41:35] [Server thread/INFO]: vGodbridger joined the game
-[01:45:54] [Server thread/WARN]: Jmat_2 moved too quickly! -14.90755223360685,-2.227531925924893,10.479340727494957
-[01:48:08] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[01:48:08] [Server thread/INFO]: Jmat_2 left the game
+[20:00:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:00:43] [ServerMain/INFO]: Loaded 1290 recipes
+[20:00:43] [ServerMain/INFO]: Loaded 1399 advancements
+[20:00:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:00:44] [Server thread/INFO]: Loading properties
+[20:00:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:00:44] [Server thread/INFO]: Generating keypair
+[20:00:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:00:45] [Server thread/INFO]: Using epoll channel type
+[20:00:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:00:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:00:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:00:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:00:45] [Server thread/INFO]: Preparing level "world"
+[20:00:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[20:00:54] [Worker-Main-1/INFO]: Preparing spawn area: 71%
+[20:00:54] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[20:00:54] [Server thread/INFO]: Time elapsed: 2632 ms
+[20:00:54] [Server thread/INFO]: Done (9.390s)! For help, type "help"
