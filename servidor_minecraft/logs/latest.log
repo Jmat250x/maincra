@@ -29,3 +29,7 @@
 [20:43:01] [Server thread/WARN]: handleDisconnection() called twice
 [20:43:17] [Server thread/INFO]: vGodbridger[/127.194.163.136:36845] logged in with entity id 9754 at (254.88096957323674, 102.0, 219.36259988208167)
 [20:43:17] [Server thread/INFO]: vGodbridger joined the game
+[21:19:35] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[21:19:35] [Server thread/INFO]: vGodbridger left the game
+[21:20:10] [Server thread/INFO]: vGodbridger[/127.194.163.136:35111] logged in with entity id 18434 at (266.7062913511602, 95.0, 267.90734541464553)
+[21:20:10] [Server thread/INFO]: vGodbridger joined the game
