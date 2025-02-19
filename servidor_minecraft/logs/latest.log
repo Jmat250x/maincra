@@ -69,3 +69,39 @@
 [01:30:48] [Server thread/INFO]: [Not Secure] <vGodbridger> en el hoyo no hay na loco
 [01:30:52] [Server thread/WARN]: vGodbridger moved too quickly! 0.0,17.415998631132133,0.18172177368933262
 [01:30:58] [Server thread/INFO]: [Not Secure] <Jmat_2> 455 -30 1465
+[01:31:28] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[01:31:28] [Server thread/INFO]: vGodbridger left the game
+[01:31:28] [Server thread/WARN]: handleDisconnection() called twice
+[01:31:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:43621] logged in with entity id 13321 at (462.5429460738706, -29.975575911786322, 1414.3871960719218)
+[01:31:34] [Server thread/INFO]: vGodbridger joined the game
+[01:32:05] [Server thread/INFO]: [Not Secure] <vGodbridger> mejor me voy pa mi casa
+[01:32:18] [Server thread/WARN]: Jmat_2 moved too quickly! -8.393546622058556,-5.132718173101111,15.995106431380037
+[01:32:42] [Server thread/INFO]: [Not Secure] <vGodbridger> NO
+[01:33:18] [Server thread/INFO]: Jmat_2 lost connection: Timed out
+[01:33:18] [Server thread/INFO]: Jmat_2 left the game
+[01:33:18] [Server thread/WARN]: handleDisconnection() called twice
+[01:33:25] [Server thread/INFO]: Jmat_2[/127.31.58.135:54145] logged in with entity id 14091 at (9.492560580700307, 1.0, 252.69999998807907)
+[01:33:25] [Server thread/INFO]: Jmat_2 joined the game
+[01:34:26] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:34:26] [Server thread/INFO]: Jmat_2 left the game
+[01:34:38] [Server thread/INFO]: Jmat_2[/127.31.58.135:51523] logged in with entity id 15019 at (12.342635019112745, 1.0, 244.99566474886117)
+[01:34:38] [Server thread/INFO]: Jmat_2 joined the game
+[01:36:15] [Server thread/WARN]: vGodbridger moved too quickly! 0.017242067703710617,-10.521790915233879,-0.6032823721304936
+[01:36:27] [Server thread/WARN]: vGodbridger moved too quickly! 0.011857025636131446,0.7502907233430551,18.23558377968652
+[01:36:49] [Server thread/INFO]: [Not Secure] <vGodbridger> 35
+[01:36:52] [Server thread/INFO]: [Not Secure] <vGodbridger> Y SON PESAO
+[01:38:38] [Server thread/INFO]: [Not Secure] <vGodbridger> yo tengo el logro
+[01:39:13] [Server thread/INFO]: vGodbridger has reached the goal [The End... Again...]
+[01:39:26] [Server thread/INFO]: [Not Secure] <vGodbridger> no comida
+[01:39:38] [Server thread/INFO]: [Not Secure] <vGodbridger> DAME COMIDA
+[01:40:18] [Server thread/WARN]: Jmat_2 moved too quickly! -12.2764916741217,-5.37775903062888,11.215701389102033
+[01:40:18] [Server thread/INFO]: [Not Secure] <vGodbridger> JOSE
+[01:40:25] [Server thread/INFO]: [Not Secure] <vGodbridger> comida
+[01:40:39] [Server thread/INFO]: [Not Secure] <vGodbridger> MENOL
+[01:40:56] [Server thread/INFO]: [Not Secure] <vGodbridger> COMIDA
+[01:40:56] [Server thread/WARN]: vGodbridger moved too quickly! -0.06377779963830577,5.5359466838041556,-11.416564977882109
+[01:41:00] [Server thread/WARN]: vGodbridger was kicked for floating too long!
+[01:41:00] [Server thread/INFO]: vGodbridger lost connection: Flying is not enabled on this server
+[01:41:00] [Server thread/INFO]: vGodbridger left the game
+[01:41:35] [Server thread/INFO]: vGodbridger[/127.194.163.136:57059] logged in with entity id 20555 at (17.30164164803412, 69.34946498373866, 10.633617762425203)
+[01:41:35] [Server thread/INFO]: vGodbridger joined the game
