@@ -30,3 +30,11 @@
 [12:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
 [12:07:54] [Server thread/INFO]: Jmat_2[/127.31.58.135:37727] logged in with entity id 1555 at (499.17906667596367, 58.0, -19.870295863414494)
 [12:07:54] [Server thread/INFO]: Jmat_2 joined the game
+[12:43:27] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
+[12:44:03] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[12:44:03] [Server thread/INFO]: Jmat_2 left the game
+[12:44:56] [Server thread/INFO]: Jmat_2[/127.31.58.135:54337] logged in with entity id 25745 at (280.30000001192093, 90.0, 268.30000001192093)
+[12:44:56] [Server thread/INFO]: Jmat_2 joined the game
+[12:48:27] [Server thread/INFO]: Villager cmk['Villager'/26111, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
+[12:51:17] [Server thread/WARN]: vGodbridger moved too quickly! -9.303565936112193,3.102496664130996,-2.078014963391979
+[12:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
