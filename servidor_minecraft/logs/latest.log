@@ -56,3 +56,17 @@
 [01:38:29] [Server thread/INFO]: Jmat_2 joined the game
 [01:39:32] [Server thread/WARN]: Maycol_27x moved too quickly! -17.375076058385844,-3.5049928780630353,6.441196812340053
 [01:41:01] [Server thread/INFO]: vGodbridger has made the advancement [Hidden in the Depths]
+[01:53:18] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,-11.55895306230558,0.0
+[01:53:20] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,-10.57289410396653,0.0
+[01:53:22] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,-12.45969233540492,0.0
+[01:53:24] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,-11.141611616128863,0.0
+[02:03:57] [Server thread/INFO]: Mohamed_la_punta[/127.26.185.26:34815] logged in with entity id 56737 at (-297.3466318680101, 100.0, -178.93206308201636)
+[02:03:57] [Server thread/INFO]: Mohamed_la_punta joined the game
+[02:04:28] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[02:04:29] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[02:04:29] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[02:04:42] [Server thread/INFO]: Mohamed_la_punta lost connection: Timed out
+[02:04:42] [Server thread/INFO]: Mohamed_la_punta left the game
+[02:04:42] [Server thread/WARN]: handleDisconnection() called twice
+[02:10:52] [Server thread/INFO]: Mohamed_la_punta[/127.26.185.26:53077] logged in with entity id 60135 at (-297.3466318680101, 100.0, -178.93206308201636)
+[02:10:52] [Server thread/INFO]: Mohamed_la_punta joined the game
