@@ -106,3 +106,12 @@
 [14:03:29] [Server thread/INFO]: Maycol_27x joined the game
 [14:04:59] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
 [14:04:59] [Server thread/INFO]: Maycol_27x left the game
+[14:05:09] [Server thread/INFO]: Maycol_27x[/127.137.81.102:52997] logged in with entity id 98888 at (383.8733527864839, 66.5625, 185.70503977538675)
+[14:05:09] [Server thread/INFO]: Maycol_27x joined the game
+[14:07:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=404, y=69, z=261} jd{x=403, y=67, z=268}
+[14:07:59] [Server thread/WARN]: Maycol_27x moved too quickly! -6.137121825989368,6.307365535953778,15.89960519390219
+[14:08:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=421, y=65, z=101} jd{x=422, y=64, z=103}
+[14:08:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=402, y=66, z=263} jd{x=402, y=67, z=260}
+[14:08:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=64, z=115} jd{x=445, y=63, z=115}
+[14:09:24] [Server thread/WARN]: Maycol_27x moved too quickly! 12.214395800519128,4.735430693536841,12.018946103328489
+[14:11:56] [Server thread/INFO]: Maycol_27x has completed the challenge [Serious Dedication]
