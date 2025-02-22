@@ -85,3 +85,23 @@
 [02:32:59] [Server thread/INFO]: Mohamed_la_punta was shot by Skeleton
 [02:33:56] [Server thread/INFO]: Jmat_2[/127.31.58.135:49711] logged in with entity id 76382 at (409.49072945807484, 67.0, 201.01793397275125)
 [02:33:56] [Server thread/INFO]: Jmat_2 joined the game
+[02:35:18] [Server thread/INFO]: Villager cmk['Villager'/17719, l='ServerLevel[world]', x=410.30, y=25.04, z=154.30] died, message: 'Villager was squished too much'
+[02:35:58] [Server thread/WARN]: Maycol_27x moved too quickly! 10.503109507991212,5.525918447776377,13.490400444143894
+[02:36:00] [Server thread/WARN]: Maycol_27x moved too quickly! 4.941125137288793,0.20399101189057944,16.923694301855786
+[02:36:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=238, y=98, z=300} jd{x=238, y=98, z=298}
+[02:36:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=238, y=98, z=300} jd{x=238, y=98, z=298}
+[02:36:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=238, y=98, z=300} jd{x=238, y=98, z=298}
+[02:36:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=238, y=98, z=300} jd{x=238, y=98, z=298}
+[02:36:06] [Server thread/WARN]: Maycol_27x moved too quickly! 17.73895728524616,3.6699499421761885,1.1040566355196724
+[02:36:52] [Server thread/WARN]: Maycol_27x moved too quickly! 15.656544200858477,-4.6989595841748155,-7.737231740210305
+[02:39:28] [Server thread/INFO]: Villager cmk['Villager'/17688, l='ServerLevel[world]', x=410.30, y=25.00, z=154.30] died, message: 'Villager was squished too much'
+[02:39:36] [Server thread/INFO]: Villager cmk['Villager'/17732, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[02:41:44] [Server thread/INFO]: Mohamed_la_punta has made the advancement [Stone Age]
+[02:42:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=265, y=94, z=215} jd{x=265, y=94, z=214}
+[02:42:39] [Server thread/INFO]: Mohamed_la_punta has made the advancement [Getting an Upgrade]
+[02:45:45] [Server thread/INFO]: Mohamed_la_punta lost connection: Disconnected
+[02:45:45] [Server thread/INFO]: Mohamed_la_punta left the game
+[02:46:03] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[02:46:03] [Server thread/INFO]: Maycol_27x left the game
+[02:52:47] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[02:52:47] [Server thread/INFO]: vGodbridger left the game
