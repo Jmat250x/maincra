@@ -79,3 +79,17 @@
 [13:29:00] [Server thread/INFO]: [Not Secure] <Jmat_2> afk
 [13:29:07] [Server thread/INFO]: [Not Secure] <vGodbridger> x2
 [13:32:05] [Server thread/WARN]: vGodbridger moved too quickly! -9.203123492201144,-5.0374830437864375,15.664509779657507
+[13:36:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=388, y=67, z=161} jd{x=388, y=67, z=159}
+[13:36:41] [Server thread/INFO]: Villager cmk['Villager'/62258, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
+[13:37:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=386, y=66, z=188} jd{x=385, y=66, z=189}
+[13:37:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=386, y=66, z=188} jd{x=385, y=66, z=189}
+[13:39:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=388, y=66, z=150} jd{x=389, y=66, z=158}
+[13:39:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=388, y=66, z=150} jd{x=390, y=67, z=158}
+[13:40:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=389, y=67, z=155} jd{x=385, y=66, z=146}
+[13:44:33] [Server thread/INFO]: Villager cmk['Villager'/62275, l='ServerLevel[world]', x=410.30, y=25.04, z=154.30] died, message: 'Villager was squished too much'
+[13:51:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=239, y=103, z=225} jd{x=237, y=101, z=226}
+[13:52:54] [Server thread/INFO]: [Not Secure] <Jmat_2> afk
+[13:52:58] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[13:52:58] [Server thread/INFO]: Jmat_2 left the game
+[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=240, y=96, z=213} jd{x=241, y=96, z=212}
+[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=240, y=96, z=213} jd{x=241, y=96, z=211}
