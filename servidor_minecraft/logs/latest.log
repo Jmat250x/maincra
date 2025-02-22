@@ -70,3 +70,8 @@
 [02:04:42] [Server thread/WARN]: handleDisconnection() called twice
 [02:10:52] [Server thread/INFO]: Mohamed_la_punta[/127.26.185.26:53077] logged in with entity id 60135 at (-297.3466318680101, 100.0, -178.93206308201636)
 [02:10:52] [Server thread/INFO]: Mohamed_la_punta joined the game
+[02:16:20] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
+[02:18:49] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[02:18:49] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[02:18:50] [Server thread/INFO]: [Not Secure] <Jmat_2> 350 150
+[02:19:47] [Server thread/INFO]: Villager cmk['Villager'/17675, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
