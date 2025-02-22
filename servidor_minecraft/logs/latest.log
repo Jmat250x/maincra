@@ -47,3 +47,12 @@
 [01:18:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=123, z=29} jd{x=49, y=124, z=29}
 [01:19:36] [Server thread/WARN]: Maycol_27x moved too quickly! -15.0463305052266,3.0826430382985137,-9.553779470970799
 [01:21:03] [Server thread/INFO]: Villager cmk['Villager'/17707, l='ServerLevel[world]', x=411.30, y=25.50, z=154.30] died, message: 'Villager was squished too much'
+[01:26:49] [Server thread/INFO]: Villager cmk['Villager'/17686, l='ServerLevel[world]', x=410.70, y=25.04, z=154.30] died, message: 'Villager was squished too much'
+[01:32:39] [Server thread/INFO]: [Not Secure] <vGodbridger> donde ta el portal al end
+[01:37:22] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:37:22] [Server thread/INFO]: Jmat_2 left the game
+[01:37:53] [Server thread/WARN]: Maycol_27x moved too quickly! -5.911308960497593,-4.158302571981324,17.190156495742244
+[01:38:29] [Server thread/INFO]: Jmat_2[/127.31.58.135:57101] logged in with entity id 42854 at (500.35213698320615, 61.55663804381898, -15.371687780690953)
+[01:38:29] [Server thread/INFO]: Jmat_2 joined the game
+[01:39:32] [Server thread/WARN]: Maycol_27x moved too quickly! -17.375076058385844,-3.5049928780630353,6.441196812340053
+[01:41:01] [Server thread/INFO]: vGodbridger has made the advancement [Hidden in the Depths]
