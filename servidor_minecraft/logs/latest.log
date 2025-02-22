@@ -38,3 +38,39 @@
 [12:48:27] [Server thread/INFO]: Villager cmk['Villager'/26111, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
 [12:51:17] [Server thread/WARN]: vGodbridger moved too quickly! -9.303565936112193,3.102496664130996,-2.078014963391979
 [12:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[12:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[12:52:25] [Server thread/INFO]: [Not Secure] <vGodbridger> 364 2773
+[12:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
+[12:54:23] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[12:54:23] [Server thread/INFO]: vGodbridger left the game
+[12:54:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:46085] logged in with entity id 38253 at (398.6356774543802, 67.0625, 2888.615430162109)
+[12:54:34] [Server thread/INFO]: vGodbridger joined the game
+[12:55:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=65, z=329} jd{x=560, y=64, z=328}
+[12:55:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=65, z=329} jd{x=560, y=64, z=328}
+[12:55:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=65, z=329} jd{x=560, y=64, z=328}
+[12:58:07] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[12:58:07] [Server thread/INFO]: Jmat_2 left the game
+[12:58:08] [Server thread/WARN]: vGodbridger moved too quickly! -1.793869943759944,4.1292622241548,17.582951856405998
+[12:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27970ms or 559 ticks behind
+[12:58:09] [Server thread/INFO]: Jmat_2[/127.31.58.135:41513] logged in with entity id 42618 at (33.755514430679106, 101.0, 36.06695464247087)
+[12:58:09] [Server thread/INFO]: Jmat_2 joined the game
+[12:59:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=84, y=52, z=40} jd{x=86, y=48, z=40}
+[12:59:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=84, y=52, z=40} jd{x=86, y=48, z=40}
+[12:59:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=28, z=40} jd{x=108, y=28, z=40}
+[12:59:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=28, z=40} jd{x=108, y=28, z=40}
+[12:59:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=28, z=40} jd{x=108, y=28, z=40}
+[13:00:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=41, y=64, z=3645} jd{x=42, y=60, z=3643}
+[13:04:12] [Server thread/INFO]: [Not Secure] <vGodbridger> -37
+[13:04:25] [Server thread/INFO]: [Not Secure] <vGodbridger> 2830
+[13:04:34] [Server thread/INFO]: [Not Secure] <vGodbridger> -37 3820
+[13:06:40] [Server thread/WARN]: vGodbridger moved too quickly! -14.278445111149892,4.0685280790711005,10.443918137732453
+[13:11:01] [Server thread/WARN]: Jmat_2 moved too quickly! 0.21637265645567538,-0.07928848811604183,18.159173438575024
+[13:11:01] [Server thread/WARN]: vGodbridger moved too quickly! 3.0207909535307067,-4.080216638807073,17.132406720749714
+[13:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[13:13:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=122, z=56} jd{x=30, y=123, z=56}
+[13:13:26] [Server thread/WARN]: vGodbridger moved wrongly!
+[13:13:46] [Server thread/WARN]: vGodbridger moved too quickly! -4.854665645671673,4.746109274051236,7.710317589298029
+[13:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11650ms or 233 ticks behind
+[13:14:49] [Server thread/WARN]: vGodbridger moved too quickly! -11.574203817437166,-1.6972669297795022,13.046733615126868
+[13:19:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=400, y=70, z=286} jd{x=399, y=69, z=287}
+[13:19:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=400, y=70, z=286} jd{x=399, y=69, z=287}
