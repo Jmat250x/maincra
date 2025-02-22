@@ -93,3 +93,16 @@
 [13:52:58] [Server thread/INFO]: Jmat_2 left the game
 [13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=240, y=96, z=213} jd{x=241, y=96, z=212}
 [13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=240, y=96, z=213} jd{x=241, y=96, z=211}
+[13:55:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=242, y=98, z=199} jd{x=242, y=99, z=198}
+[13:56:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=242, y=97, z=199} jd{x=242, y=96, z=198}
+[13:56:49] [Server thread/INFO]: Jmat_2[/127.31.58.135:38969] logged in with entity id 92917 at (370.1013275179242, 66.0, 180.47741438443154)
+[13:56:49] [Server thread/INFO]: Jmat_2 joined the game
+[14:02:15] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37045] logged in with entity id 96187 at (383.5, 66.0, 185.5)
+[14:02:15] [Server thread/INFO]: Maycol_27x joined the game
+[14:02:45] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[14:02:45] [Server thread/INFO]: Maycol_27x left the game
+[14:02:45] [Server thread/WARN]: handleDisconnection() called twice
+[14:03:28] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37443] logged in with entity id 97438 at (383.5, 66.0, 185.5)
+[14:03:29] [Server thread/INFO]: Maycol_27x joined the game
+[14:04:59] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[14:04:59] [Server thread/INFO]: Maycol_27x left the game
