@@ -127,3 +127,24 @@
 [14:26:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=67, z=193} jd{x=360, y=66, z=192}
 [14:26:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=67, z=193} jd{x=359, y=66, z=193}
 [14:32:11] [Server thread/INFO]: Maycol_27x has reached the goal [Postmortal]
+[14:39:42] [Server thread/INFO]: [Not Secure] <vGodbridger> mycol
+[14:39:45] [Server thread/INFO]: [Not Secure] <vGodbridger> ta muteao
+[14:39:52] [Server thread/INFO]: [Not Secure] <Maycol_27x> DIGA
+[14:39:58] [Server thread/INFO]: [Not Secure] <Maycol_27x> 2
+[14:40:16] [Server thread/INFO]: [Not Secure] <Maycol_27x> NO
+[14:40:53] [Server thread/WARN]: vGodbridger moved too quickly! 7.304312360110032,-7.0,0.7431245456041609
+[14:41:04] [Server thread/INFO]: Villager cmk['Cartographer'/62451, l='ServerLevel[world]', x=416.20, y=25.00, z=156.50] died, message: 'Cartographer tried to swim in lava'
+[14:42:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=401, y=66, z=276} jd{x=401, y=66, z=284}
+[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=401, y=66, z=292} jd{x=400, y=67, z=292}
+[14:42:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=400, y=66, z=292} jd{x=400, y=67, z=288}
+[14:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=403, y=68, z=259} jd{x=399, y=67, z=260}
+[14:45:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=399, y=66, z=292} jd{x=398, y=67, z=287}
+[14:45:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=398, y=66, z=287} jd{x=398, y=67, z=286}
+[14:45:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=398, y=66, z=287} jd{x=398, y=67, z=280}
+[14:45:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=399, y=66, z=279} jd{x=398, y=67, z=272}
+[14:51:01] [Server thread/INFO]: [Not Secure] <vGodbridger> dc?
+[14:51:06] [Server thread/INFO]: [Not Secure] <Jmat_2> Duerma bro
+[14:53:23] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[14:53:23] [Server thread/INFO]: Jmat_2 left the game
+[14:55:07] [Server thread/WARN]: Maycol_27x moved too quickly! -17.766401786387405,0.6954422302887764,-3.9376833222964365
+[14:55:15] [Server thread/INFO]: Villager cmk['Villager'/62239, l='ServerLevel[world]', x=410.70, y=25.05, z=154.70] died, message: 'Villager was squished too much'
