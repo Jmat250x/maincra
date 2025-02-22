@@ -148,3 +148,12 @@
 [14:53:23] [Server thread/INFO]: Jmat_2 left the game
 [14:55:07] [Server thread/WARN]: Maycol_27x moved too quickly! -17.766401786387405,0.6954422302887764,-3.9376833222964365
 [14:55:15] [Server thread/INFO]: Villager cmk['Villager'/62239, l='ServerLevel[world]', x=410.70, y=25.05, z=154.70] died, message: 'Villager was squished too much'
+[14:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:59:33] [Server thread/WARN]: Maycol_27x moved too quickly! -0.452485352185648,8.037686260794496,-16.38330953612325
+[14:59:50] [Server thread/WARN]: Maycol_27x moved too quickly! -7.243911877325559,0.6866870787446828,-7.208785278314309
+[15:02:40] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[15:02:40] [Server thread/INFO]: Maycol_27x left the game
+[15:02:47] [Server thread/INFO]: Maycol_27x[/127.137.81.102:46027] logged in with entity id 127444 at (456.0510471527825, -34.0, 1476.699021948188)
+[15:02:47] [Server thread/INFO]: Maycol_27x joined the game
+[15:03:14] [Server thread/INFO]: Jmat_2[/127.31.58.135:56005] logged in with entity id 127496 at (415.7824912332635, 68.0, 195.2727738368462)
+[15:03:14] [Server thread/INFO]: Jmat_2 joined the game
