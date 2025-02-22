@@ -157,3 +157,7 @@
 [15:02:47] [Server thread/INFO]: Maycol_27x joined the game
 [15:03:14] [Server thread/INFO]: Jmat_2[/127.31.58.135:56005] logged in with entity id 127496 at (415.7824912332635, 68.0, 195.2727738368462)
 [15:03:14] [Server thread/INFO]: Jmat_2 joined the game
+[15:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[15:10:48] [Server thread/INFO]: Villager cmk['Villager'/135137, l='ServerLevel[world]', x=410.30, y=25.05, z=154.70] died, message: 'Villager was squished too much'
+[15:12:00] [Server thread/INFO]: Villager cmk['Cartographer'/135334, l='ServerLevel[world]', x=416.51, y=23.27, z=156.51] died, message: 'Cartographer tried to swim in lava'
+[15:15:55] [Server thread/INFO]: Villager cmk['Villager'/135125, l='ServerLevel[world]', x=410.30, y=25.05, z=154.70] died, message: 'Villager was squished too much'
