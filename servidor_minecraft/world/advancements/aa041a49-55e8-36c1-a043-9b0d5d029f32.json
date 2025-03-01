@@ -8,26 +8,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-02-09 18:55:22 +0000",
-      "minecraft:flower_forest": "2025-02-09 01:43:48 +0000",
-      "minecraft:savanna_plateau": "2025-02-22 15:10:51 +0000",
-      "minecraft:beach": "2025-02-09 01:43:51 +0000",
       "minecraft:mushroom_fields": "2025-02-22 01:10:51 +0000",
       "minecraft:forest": "2025-02-09 01:08:05 +0000",
       "minecraft:taiga": "2025-02-22 01:04:15 +0000",
-      "minecraft:sparse_jungle": "2025-02-22 15:09:09 +0000",
       "minecraft:deep_ocean": "2025-02-09 18:54:39 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-22 01:03:36 +0000",
+      "minecraft:desert": "2025-02-22 15:22:33 +0000",
+      "minecraft:jungle": "2025-02-09 01:07:21 +0000",
+      "minecraft:ocean": "2025-02-09 17:06:08 +0000",
+      "minecraft:birch_forest": "2025-02-22 15:18:34 +0000",
+      "minecraft:wooded_badlands": "2025-02-22 15:24:49 +0000",
+      "minecraft:bamboo_jungle": "2025-02-22 15:18:48 +0000",
+      "minecraft:warm_ocean": "2025-02-22 15:22:18 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-12 02:47:04 +0000",
+      "minecraft:flower_forest": "2025-02-09 01:43:48 +0000",
+      "minecraft:savanna_plateau": "2025-02-22 15:10:51 +0000",
+      "minecraft:beach": "2025-02-09 01:43:51 +0000",
+      "minecraft:sparse_jungle": "2025-02-22 15:09:09 +0000",
       "minecraft:river": "2025-02-09 01:07:13 +0000",
       "minecraft:lukewarm_ocean": "2025-02-13 01:14:06 +0000",
       "minecraft:stony_shore": "2025-02-09 01:03:52 +0000",
       "minecraft:dripstone_caves": "2025-02-22 15:10:04 +0000",
-      "minecraft:deep_cold_ocean": "2025-02-22 01:03:36 +0000",
-      "minecraft:jungle": "2025-02-09 01:07:21 +0000",
-      "minecraft:ocean": "2025-02-09 17:06:08 +0000",
       "minecraft:swamp": "2025-02-09 18:56:03 +0000",
       "minecraft:meadow": "2025-02-15 03:32:20 +0000",
       "minecraft:savanna": "2025-02-09 00:56:50 +0000",
-      "minecraft:plains": "2025-02-09 01:03:37 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-02-12 02:47:04 +0000"
+      "minecraft:plains": "2025-02-09 01:03:37 +0000"
     },
     "done": false
   },
@@ -4605,6 +4610,84 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-02-22 13:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-22 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-22 15:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-02-22 15:27:46 +0000"
     },
     "done": true
   },

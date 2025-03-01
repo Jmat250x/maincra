@@ -1,163 +1,26 @@
-[12:00:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:00:48] [ServerMain/INFO]: Loaded 1290 recipes
-[12:00:49] [ServerMain/INFO]: Loaded 1399 advancements
-[12:00:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[12:00:49] [Server thread/INFO]: Loading properties
-[12:00:49] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:49] [Server thread/INFO]: Generating keypair
-[12:00:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:49] [Server thread/INFO]: Using epoll channel type
-[12:00:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:00:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:00:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:00:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:00:50] [Server thread/INFO]: Preparing level "world"
-[12:00:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:00:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:00:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:00:57] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[12:00:57] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[12:00:58] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[12:00:58] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[12:00:58] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[12:00:59] [Worker-Main-2/INFO]: Preparing spawn area: 75%
-[12:00:59] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[12:00:59] [Server thread/INFO]: Time elapsed: 4026 ms
-[12:00:59] [Server thread/INFO]: Done (9.828s)! For help, type "help"
-[12:03:26] [Server thread/INFO]: vGodbridger[/127.194.163.136:53029] logged in with entity id 32 at (278.0338126333096, 95.0, 225.23224742182694)
-[12:03:26] [Server thread/INFO]: vGodbridger joined the game
-[12:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
-[12:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
-[12:07:54] [Server thread/INFO]: Jmat_2[/127.31.58.135:37727] logged in with entity id 1555 at (499.17906667596367, 58.0, -19.870295863414494)
-[12:07:54] [Server thread/INFO]: Jmat_2 joined the game
-[12:43:27] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
-[12:44:03] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[12:44:03] [Server thread/INFO]: Jmat_2 left the game
-[12:44:56] [Server thread/INFO]: Jmat_2[/127.31.58.135:54337] logged in with entity id 25745 at (280.30000001192093, 90.0, 268.30000001192093)
-[12:44:56] [Server thread/INFO]: Jmat_2 joined the game
-[12:48:27] [Server thread/INFO]: Villager cmk['Villager'/26111, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
-[12:51:17] [Server thread/WARN]: vGodbridger moved too quickly! -9.303565936112193,3.102496664130996,-2.078014963391979
-[12:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
-[12:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[12:52:25] [Server thread/INFO]: [Not Secure] <vGodbridger> 364 2773
-[12:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
-[12:54:23] [Server thread/INFO]: vGodbridger lost connection: Disconnected
-[12:54:23] [Server thread/INFO]: vGodbridger left the game
-[12:54:34] [Server thread/INFO]: vGodbridger[/127.194.163.136:46085] logged in with entity id 38253 at (398.6356774543802, 67.0625, 2888.615430162109)
-[12:54:34] [Server thread/INFO]: vGodbridger joined the game
-[12:55:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=65, z=329} jd{x=560, y=64, z=328}
-[12:55:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=65, z=329} jd{x=560, y=64, z=328}
-[12:55:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=65, z=329} jd{x=560, y=64, z=328}
-[12:58:07] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[12:58:07] [Server thread/INFO]: Jmat_2 left the game
-[12:58:08] [Server thread/WARN]: vGodbridger moved too quickly! -1.793869943759944,4.1292622241548,17.582951856405998
-[12:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27970ms or 559 ticks behind
-[12:58:09] [Server thread/INFO]: Jmat_2[/127.31.58.135:41513] logged in with entity id 42618 at (33.755514430679106, 101.0, 36.06695464247087)
-[12:58:09] [Server thread/INFO]: Jmat_2 joined the game
-[12:59:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=84, y=52, z=40} jd{x=86, y=48, z=40}
-[12:59:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=84, y=52, z=40} jd{x=86, y=48, z=40}
-[12:59:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=28, z=40} jd{x=108, y=28, z=40}
-[12:59:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=28, z=40} jd{x=108, y=28, z=40}
-[12:59:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=28, z=40} jd{x=108, y=28, z=40}
-[13:00:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=41, y=64, z=3645} jd{x=42, y=60, z=3643}
-[13:04:12] [Server thread/INFO]: [Not Secure] <vGodbridger> -37
-[13:04:25] [Server thread/INFO]: [Not Secure] <vGodbridger> 2830
-[13:04:34] [Server thread/INFO]: [Not Secure] <vGodbridger> -37 3820
-[13:06:40] [Server thread/WARN]: vGodbridger moved too quickly! -14.278445111149892,4.0685280790711005,10.443918137732453
-[13:11:01] [Server thread/WARN]: Jmat_2 moved too quickly! 0.21637265645567538,-0.07928848811604183,18.159173438575024
-[13:11:01] [Server thread/WARN]: vGodbridger moved too quickly! 3.0207909535307067,-4.080216638807073,17.132406720749714
-[13:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[13:13:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=122, z=56} jd{x=30, y=123, z=56}
-[13:13:26] [Server thread/WARN]: vGodbridger moved wrongly!
-[13:13:46] [Server thread/WARN]: vGodbridger moved too quickly! -4.854665645671673,4.746109274051236,7.710317589298029
-[13:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11650ms or 233 ticks behind
-[13:14:49] [Server thread/WARN]: vGodbridger moved too quickly! -11.574203817437166,-1.6972669297795022,13.046733615126868
-[13:19:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=400, y=70, z=286} jd{x=399, y=69, z=287}
-[13:19:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=400, y=70, z=286} jd{x=399, y=69, z=287}
-[13:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[13:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
-[13:29:00] [Server thread/INFO]: [Not Secure] <Jmat_2> afk
-[13:29:07] [Server thread/INFO]: [Not Secure] <vGodbridger> x2
-[13:32:05] [Server thread/WARN]: vGodbridger moved too quickly! -9.203123492201144,-5.0374830437864375,15.664509779657507
-[13:36:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=388, y=67, z=161} jd{x=388, y=67, z=159}
-[13:36:41] [Server thread/INFO]: Villager cmk['Villager'/62258, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
-[13:37:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=386, y=66, z=188} jd{x=385, y=66, z=189}
-[13:37:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=386, y=66, z=188} jd{x=385, y=66, z=189}
-[13:39:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=388, y=66, z=150} jd{x=389, y=66, z=158}
-[13:39:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=388, y=66, z=150} jd{x=390, y=67, z=158}
-[13:40:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=389, y=67, z=155} jd{x=385, y=66, z=146}
-[13:44:33] [Server thread/INFO]: Villager cmk['Villager'/62275, l='ServerLevel[world]', x=410.30, y=25.04, z=154.30] died, message: 'Villager was squished too much'
-[13:51:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=239, y=103, z=225} jd{x=237, y=101, z=226}
-[13:52:54] [Server thread/INFO]: [Not Secure] <Jmat_2> afk
-[13:52:58] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[13:52:58] [Server thread/INFO]: Jmat_2 left the game
-[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=240, y=96, z=213} jd{x=241, y=96, z=212}
-[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=240, y=96, z=213} jd{x=241, y=96, z=211}
-[13:55:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=242, y=98, z=199} jd{x=242, y=99, z=198}
-[13:56:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=242, y=97, z=199} jd{x=242, y=96, z=198}
-[13:56:49] [Server thread/INFO]: Jmat_2[/127.31.58.135:38969] logged in with entity id 92917 at (370.1013275179242, 66.0, 180.47741438443154)
-[13:56:49] [Server thread/INFO]: Jmat_2 joined the game
-[14:02:15] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37045] logged in with entity id 96187 at (383.5, 66.0, 185.5)
-[14:02:15] [Server thread/INFO]: Maycol_27x joined the game
-[14:02:45] [Server thread/INFO]: Maycol_27x lost connection: Timed out
-[14:02:45] [Server thread/INFO]: Maycol_27x left the game
-[14:02:45] [Server thread/WARN]: handleDisconnection() called twice
-[14:03:28] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37443] logged in with entity id 97438 at (383.5, 66.0, 185.5)
-[14:03:29] [Server thread/INFO]: Maycol_27x joined the game
-[14:04:59] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[14:04:59] [Server thread/INFO]: Maycol_27x left the game
-[14:05:09] [Server thread/INFO]: Maycol_27x[/127.137.81.102:52997] logged in with entity id 98888 at (383.8733527864839, 66.5625, 185.70503977538675)
-[14:05:09] [Server thread/INFO]: Maycol_27x joined the game
-[14:07:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=404, y=69, z=261} jd{x=403, y=67, z=268}
-[14:07:59] [Server thread/WARN]: Maycol_27x moved too quickly! -6.137121825989368,6.307365535953778,15.89960519390219
-[14:08:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=421, y=65, z=101} jd{x=422, y=64, z=103}
-[14:08:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=402, y=66, z=263} jd{x=402, y=67, z=260}
-[14:08:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=64, z=115} jd{x=445, y=63, z=115}
-[14:09:24] [Server thread/WARN]: Maycol_27x moved too quickly! 12.214395800519128,4.735430693536841,12.018946103328489
-[14:11:56] [Server thread/INFO]: Maycol_27x has completed the challenge [Serious Dedication]
-[14:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[14:18:09] [Server thread/INFO]: vGodbridger was burned to a crisp while fighting Maycol_27x
-[14:23:52] [Server thread/WARN]: vGodbridger moved too quickly! -7.343929097814225,-2.121296840539202,-6.761472280601254
-[14:24:35] [Server thread/INFO]: Villager cmk['Villager'/94786, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[14:25:14] [Server thread/INFO]: Villager cmk['Villager'/89611, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[14:25:47] [Server thread/INFO]: Villager cmk['Villager'/89488, l='ServerLevel[world]', x=411.70, y=25.50, z=154.30] died, message: 'Villager was squished too much'
-[14:26:12] [Server thread/INFO]: [Jmat_2: Set own game mode to Spectator Mode]
-[14:26:12] [Server thread/INFO]: Villager cmk['Villager'/62285, l='ServerLevel[world]', x=410.30, y=25.05, z=154.30] died, message: 'Villager was squished too much'
-[14:26:13] [Server thread/INFO]: [Jmat_2: Set own game mode to Survival Mode]
-[14:26:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=67, z=193} jd{x=360, y=66, z=192}
-[14:26:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=67, z=193} jd{x=359, y=66, z=193}
-[14:32:11] [Server thread/INFO]: Maycol_27x has reached the goal [Postmortal]
-[14:39:42] [Server thread/INFO]: [Not Secure] <vGodbridger> mycol
-[14:39:45] [Server thread/INFO]: [Not Secure] <vGodbridger> ta muteao
-[14:39:52] [Server thread/INFO]: [Not Secure] <Maycol_27x> DIGA
-[14:39:58] [Server thread/INFO]: [Not Secure] <Maycol_27x> 2
-[14:40:16] [Server thread/INFO]: [Not Secure] <Maycol_27x> NO
-[14:40:53] [Server thread/WARN]: vGodbridger moved too quickly! 7.304312360110032,-7.0,0.7431245456041609
-[14:41:04] [Server thread/INFO]: Villager cmk['Cartographer'/62451, l='ServerLevel[world]', x=416.20, y=25.00, z=156.50] died, message: 'Cartographer tried to swim in lava'
-[14:42:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=401, y=66, z=276} jd{x=401, y=66, z=284}
-[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=401, y=66, z=292} jd{x=400, y=67, z=292}
-[14:42:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=400, y=66, z=292} jd{x=400, y=67, z=288}
-[14:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=403, y=68, z=259} jd{x=399, y=67, z=260}
-[14:45:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=399, y=66, z=292} jd{x=398, y=67, z=287}
-[14:45:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=398, y=66, z=287} jd{x=398, y=67, z=286}
-[14:45:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=398, y=66, z=287} jd{x=398, y=67, z=280}
-[14:45:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=399, y=66, z=279} jd{x=398, y=67, z=272}
-[14:51:01] [Server thread/INFO]: [Not Secure] <vGodbridger> dc?
-[14:51:06] [Server thread/INFO]: [Not Secure] <Jmat_2> Duerma bro
-[14:53:23] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[14:53:23] [Server thread/INFO]: Jmat_2 left the game
-[14:55:07] [Server thread/WARN]: Maycol_27x moved too quickly! -17.766401786387405,0.6954422302887764,-3.9376833222964365
-[14:55:15] [Server thread/INFO]: Villager cmk['Villager'/62239, l='ServerLevel[world]', x=410.70, y=25.05, z=154.70] died, message: 'Villager was squished too much'
-[14:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[14:59:33] [Server thread/WARN]: Maycol_27x moved too quickly! -0.452485352185648,8.037686260794496,-16.38330953612325
-[14:59:50] [Server thread/WARN]: Maycol_27x moved too quickly! -7.243911877325559,0.6866870787446828,-7.208785278314309
-[15:02:40] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[15:02:40] [Server thread/INFO]: Maycol_27x left the game
-[15:02:47] [Server thread/INFO]: Maycol_27x[/127.137.81.102:46027] logged in with entity id 127444 at (456.0510471527825, -34.0, 1476.699021948188)
-[15:02:47] [Server thread/INFO]: Maycol_27x joined the game
-[15:03:14] [Server thread/INFO]: Jmat_2[/127.31.58.135:56005] logged in with entity id 127496 at (415.7824912332635, 68.0, 195.2727738368462)
-[15:03:14] [Server thread/INFO]: Jmat_2 joined the game
-[15:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[15:10:48] [Server thread/INFO]: Villager cmk['Villager'/135137, l='ServerLevel[world]', x=410.30, y=25.05, z=154.70] died, message: 'Villager was squished too much'
-[15:12:00] [Server thread/INFO]: Villager cmk['Cartographer'/135334, l='ServerLevel[world]', x=416.51, y=23.27, z=156.51] died, message: 'Cartographer tried to swim in lava'
-[15:15:55] [Server thread/INFO]: Villager cmk['Villager'/135125, l='ServerLevel[world]', x=410.30, y=25.05, z=154.70] died, message: 'Villager was squished too much'
+[16:18:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:18:13] [ServerMain/INFO]: Loaded 1290 recipes
+[16:18:13] [ServerMain/INFO]: Loaded 1399 advancements
+[16:18:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:18:14] [Server thread/INFO]: Loading properties
+[16:18:14] [Server thread/INFO]: Default game type: SURVIVAL
+[16:18:14] [Server thread/INFO]: Generating keypair
+[16:18:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:18:15] [Server thread/INFO]: Using epoll channel type
+[16:18:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:18:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:18:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:18:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:18:15] [Server thread/INFO]: Preparing level "world"
+[16:18:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:18:25] [Server thread/INFO]: Time elapsed: 2168 ms
+[16:18:25] [Server thread/INFO]: Done (10.511s)! For help, type "help"
+[16:19:09] [Server thread/INFO]: Jmat_2[/127.31.58.135:33395] logged in with entity id 15 at (26.69999998807907, 63.1212968405392, 3633.699999988079)
+[16:19:09] [Server thread/INFO]: Jmat_2 joined the game
+[16:23:23] [Server thread/WARN]: Jmat_2 moved too quickly! 10.10559565254016,-0.18898414387844298,-15.311901632096124
+[16:25:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-356, y=64, z=3387} jd{x=-356, y=62, z=3388}
