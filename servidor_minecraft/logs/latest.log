@@ -24,3 +24,8 @@
 [16:19:09] [Server thread/INFO]: Jmat_2 joined the game
 [16:23:23] [Server thread/WARN]: Jmat_2 moved too quickly! 10.10559565254016,-0.18898414387844298,-15.311901632096124
 [16:25:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-356, y=64, z=3387} jd{x=-356, y=62, z=3388}
+[16:35:10] [Server thread/INFO]: Jmat_2 lost connection: Timed out
+[16:35:10] [Server thread/INFO]: Jmat_2 left the game
+[16:35:10] [Server thread/WARN]: handleDisconnection() called twice
+[16:35:27] [Server thread/INFO]: Jmat_2[/127.31.58.135:58401] logged in with entity id 6927 at (-511.69999998807907, 62.77912155938433, 3506.300000011921)
+[16:35:27] [Server thread/INFO]: Jmat_2 joined the game
